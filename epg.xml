@@ -1,129 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv><channel id="Disney.-.Eastern.Feed.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10171_h15_ae.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10171_h15_ae.png" />
+<tv><channel id="HBO.-.Eastern.Feed.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10240_h15_aa.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10240_h15_aa.png" />
     <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Disney - Eastern Feed</display-name>
-  </channel>
-  <channel id="Showtime.Extreme.-.Eastern.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s18086_h15_aa.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s18086_h15_aa.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Showtime Extreme - Eastern</display-name>
+    <display-name lang="en">HBO - Eastern Feed</display-name>
   </channel>
   <channel id="Discovery.Life.Channel.us">
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16125_h15_ac.png" />
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16125_h15_ac.png" />
     <url>http://www.tvpassport.com</url>
     <display-name lang="en">Discovery Life Channel</display-name>
-  </channel>
-  <channel id="HBO.-.Eastern.Feed.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10240_h15_aa.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10240_h15_aa.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">HBO - Eastern Feed</display-name>
-  </channel>
-  <channel id="NHL.Network.USA.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s58570_h15_ab.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s58570_h15_ab.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">NHL Network USA</display-name>
-  </channel>
-  <channel id="NFL.Network.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s34710_h15_aa.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s34710_h15_aa.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">NFL Network</display-name>
-  </channel>
-  <channel id="HBO.Latino.(HBO.7).-.Eastern.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s24553_h9_ab.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s24553_h9_ab.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">HBO Latino (HBO 7) - Eastern</display-name>
-  </channel>
-  <channel id="Showtime.Next.HD.-.Eastern.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s68342_h15_aa.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s68342_h15_aa.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Showtime Next HD - Eastern</display-name>
-  </channel>
-  <channel id="Discovery.Family.Channel.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16618_h15_ab.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16618_h15_ab.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Discovery Family Channel</display-name>
-  </channel>
-  <channel id="Showtime.Showcase.HD.-.East.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16153_h15_aa.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16153_h15_aa.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Showtime Showcase HD - East</display-name>
-  </channel>
-  <channel id="Discovery.Channel.(US).-.Eastern.Feed.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11150_h15_af.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11150_h15_af.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Discovery Channel (US) - Eastern Feed</display-name>
-  </channel>
-  <channel id="Altitude.Sports.-.Denver.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s44263_h9_aa.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s44263_h9_aa.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Altitude Sports - Denver</display-name>
-  </channel>
-  <channel id="ESPN2.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s12444_h15_ab.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s12444_h15_ab.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">ESPN2</display-name>
-  </channel>
-  <channel id="Cinemax.-.Eastern.Feed.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10120_h15_ab.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10120_h15_ab.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Cinemax - Eastern Feed</display-name>
-  </channel>
-  <channel id="HBO.2.-.Eastern.Feed.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s68140_h15_ad.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s68140_h15_ad.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">HBO 2 - Eastern Feed</display-name>
-  </channel>
-  <channel id="Animal.Planet.US.-.East.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16331_h9_ad.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16331_h9_ad.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Animal Planet US - East</display-name>
-  </channel>
-  <channel id="TNT.-.Eastern.Feed.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11164_h15_ac.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11164_h15_ac.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">TNT - Eastern Feed</display-name>
-  </channel>
-  <channel id="HBO.Family.-.Eastern.Feed.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16585_h15_aa.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16585_h15_aa.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">HBO Family - Eastern Feed</display-name>
-  </channel>
-  <channel id="Showtime.Women.HD.-.Eastern.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s68338_h15_aa.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s68338_h15_aa.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Showtime Women HD - Eastern</display-name>
-  </channel>
-  <channel id="HBO.Zone.HD.-.East.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s59845_h15_aa.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s59845_h15_aa.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">HBO Zone HD - East</display-name>
-  </channel>
-  <channel id="Syfy.-.Eastern.Feed.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11097_h15_ae.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11097_h15_ae.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Syfy - Eastern Feed</display-name>
   </channel>
   <channel id="ESPN.U.us">
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s45654_h15_aa.png" />
@@ -137,11 +23,35 @@
     <url>http://www.tvpassport.com</url>
     <display-name lang="en">Disney XD USA - Eastern Feed</display-name>
   </channel>
-  <channel id="HBO.Signature.(HBO.3).-.Eastern.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10243_h15_aa.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10243_h15_aa.png" />
+  <channel id="ESPN2.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s12444_h15_ab.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s12444_h15_ab.png" />
     <url>http://www.tvpassport.com</url>
-    <display-name lang="en">HBO Signature (HBO 3) - Eastern</display-name>
+    <display-name lang="en">ESPN2</display-name>
+  </channel>
+  <channel id="Showtime.Showcase.HD.-.East.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16153_h15_aa.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16153_h15_aa.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">Showtime Showcase HD - East</display-name>
+  </channel>
+  <channel id="Discovery.Channel.(US).-.Eastern.Feed.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11150_h15_af.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11150_h15_af.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">Discovery Channel (US) - Eastern Feed</display-name>
+  </channel>
+  <channel id="Showtime.Extreme.-.Eastern.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s18086_h15_aa.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s18086_h15_aa.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">Showtime Extreme - Eastern</display-name>
+  </channel>
+  <channel id="HBO.Family.-.Eastern.Feed.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16585_h15_aa.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16585_h15_aa.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">HBO Family - Eastern Feed</display-name>
   </channel>
   <channel id="Nick.Jr..-.East.us">
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s19211_h15_ac.png" />
@@ -149,23 +59,17 @@
     <url>http://www.tvpassport.com</url>
     <display-name lang="en">Nick Jr. - East</display-name>
   </channel>
-  <channel id="Starz.-.Eastern.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s12719_h15_ac.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s12719_h15_ac.png" />
+  <channel id="Showtime.Next.HD.-.Eastern.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s68342_h15_aa.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s68342_h15_aa.png" />
     <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Starz - Eastern</display-name>
+    <display-name lang="en">Showtime Next HD - Eastern</display-name>
   </channel>
-  <channel id="Nickelodeon.USA.-.Pacific.Feed.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11006_h15_ab.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11006_h15_ab.png" />
+  <channel id="Showtime.Women.HD.-.Eastern.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s68338_h15_aa.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s68338_h15_aa.png" />
     <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Nickelodeon USA - Pacific Feed</display-name>
-  </channel>
-  <channel id="Disney.Junior.USA.-.East.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s74796_h15_ad.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s74796_h15_ad.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Disney Junior USA - East</display-name>
+    <display-name lang="en">Showtime Women HD - Eastern</display-name>
   </channel>
   <channel id="ESPN.us">
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10179_h15_aa.png" />
@@ -173,17 +77,113 @@
     <url>http://www.tvpassport.com</url>
     <display-name lang="en">ESPN</display-name>
   </channel>
+  <channel id="HBO.2.-.Eastern.Feed.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s68140_h15_ad.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s68140_h15_ad.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">HBO 2 - Eastern Feed</display-name>
+  </channel>
+  <channel id="Disney.Junior.USA.-.East.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s74796_h15_ad.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s74796_h15_ad.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">Disney Junior USA - East</display-name>
+  </channel>
+  <channel id="Nickelodeon.USA.-.Pacific.Feed.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11006_h15_ab.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11006_h15_ab.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">Nickelodeon USA - Pacific Feed</display-name>
+  </channel>
+  <channel id="NHL.Network.USA.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s58570_h15_ab.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s58570_h15_ab.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">NHL Network USA</display-name>
+  </channel>
+  <channel id="Syfy.-.Eastern.Feed.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11097_h15_ae.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11097_h15_ae.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">Syfy - Eastern Feed</display-name>
+  </channel>
+  <channel id="HBO.Signature.(HBO.3).-.Eastern.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10243_h15_aa.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10243_h15_aa.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">HBO Signature (HBO 3) - Eastern</display-name>
+  </channel>
+  <channel id="Discovery.Family.Channel.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16618_h15_ab.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16618_h15_ab.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">Discovery Family Channel</display-name>
+  </channel>
   <channel id="Showtime.2.-.Eastern.us">
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11116_h15_aa.png" />
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11116_h15_aa.png" />
     <url>http://www.tvpassport.com</url>
     <display-name lang="en">Showtime 2 - Eastern</display-name>
   </channel>
+  <channel id="Starz.-.Eastern.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s12719_h15_ac.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s12719_h15_ac.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">Starz - Eastern</display-name>
+  </channel>
+  <channel id="Altitude.Sports.-.Denver.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s44263_h9_aa.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s44263_h9_aa.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">Altitude Sports - Denver</display-name>
+  </channel>
+  <channel id="TNT.-.Eastern.Feed.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11164_h15_ac.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11164_h15_ac.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">TNT - Eastern Feed</display-name>
+  </channel>
+  <channel id="Disney.-.Eastern.Feed.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10171_h15_ae.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10171_h15_ae.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">Disney - Eastern Feed</display-name>
+  </channel>
+  <channel id="Cinemax.-.Eastern.Feed.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10120_h15_ab.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10120_h15_ab.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">Cinemax - Eastern Feed</display-name>
+  </channel>
   <channel id="HBO.Comedy.HD.-.East.us">
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s59839_h15_aa.png" />
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s59839_h15_aa.png" />
     <url>http://www.tvpassport.com</url>
     <display-name lang="en">HBO Comedy HD - East</display-name>
+  </channel>
+  <channel id="NFL.Network.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s34710_h15_aa.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s34710_h15_aa.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">NFL Network</display-name>
+  </channel>
+  <channel id="HBO.Zone.HD.-.East.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s59845_h15_aa.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s59845_h15_aa.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">HBO Zone HD - East</display-name>
+  </channel>
+  <channel id="Animal.Planet.US.-.East.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16331_h9_ad.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16331_h9_ad.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">Animal Planet US - East</display-name>
+  </channel>
+  <channel id="HBO.Latino.(HBO.7).-.Eastern.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s24553_h9_ab.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s24553_h9_ab.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">HBO Latino (HBO 7) - Eastern</display-name>
   </channel>
   <programme channel="Showtime.2.-.Eastern.us" start="20241230010000 -0500" stop="20241230023500 -0500">
     <title lang="en">Breathe</title>
