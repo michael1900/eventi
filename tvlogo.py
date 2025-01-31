@@ -1,87 +1,78 @@
 import json
+import os
 from bs4 import BeautifulSoup
+import requests
 
-def extract_payload_from_file(file_path):
-    """
-    Extracts the payload object from the provided HTML file.
-
-    Parameters:
-    file_path (str): The path to the HTML file.
-
-    Returns:
-    dict: The payload object as a dictionary.
-    """
+def extract_payload_from_file(filename):
     try:
-        with open(file_path, 'r', encoding='utf-8') as file:
-            html_content = file.read()
-
-        # Parse the HTML content with BeautifulSoup
-        soup = BeautifulSoup(html_content, 'html.parser')
-
-        # Extract the initial path
-        react_app_tag = soup.find('react-app')
-        if react_app_tag:
-            initial_path = react_app_tag['initial-path']
-            if initial_path:
-                initial_path = initial_path.split('/tv-logo/tv-logos/tree/main/')[0] + '/tv-logo/tv-logos/tree/main/'
-                initial_path = initial_path.replace('/tree', '')
-
-        # Find the script tag with the payload
-        script_tag = soup.find('script', {'type': 'application/json', 'data-target': 'react-app.embeddedData'})
-
-        if script_tag:
-            # Extract the JSON content from the script tag
-            json_content = script_tag.string
-            # Load it into a Python dictionary
-            data = json.loads(json_content)
-            # Extract the payload object
-            payload = data.get('payload', {})
-
-            # Append the initial path to the payload object
-            if initial_path:
-                payload['initial_path'] = initial_path
-
-            return payload
-        else:
-            print('Script tag with the payload not found.')
-            return {}
-
+        with open(filename, 'r', encoding='utf-8') as f:
+            html_content = f.read()
     except FileNotFoundError:
-        print(f'The file {file_path} does not exist.')
-        return {}
-    except Exception as e:
-        print(f'An error occurred: {e}')
-        return {}
+        print(f"Error: File '{filename}' not found.")
+        return None
 
-def search_tree_items(search_string, json_obj):
-    """
-    Searches the JSON object's tree.items for matches of each part of the search string.
+    soup = BeautifulSoup(html_content, 'html.parser')
+    script_tag = soup.find('script', type='application/json')
 
-    Parameters:
-    search_string (str): The string to search for.
-    json_obj (dict): The JSON object to search within.
+    if script_tag:
+        json_text = script_tag.string
+        try:
+            payload = json.loads(json_text)
+            return payload
+        except json.JSONDecodeError as e:
+            print(f"Error decoding JSON: {e}")
+            return None
+    else:
+        print("Error: Could not find JSON payload in the HTML.")
+        return None
 
-    Returns:
-    list: A list of matches found.
-    """
-    matches = []
-    search_words = search_string.lower().split()
+def search_tree_items(search_term, payload):
+    results = []
 
-    items = json_obj.get('tree', {}).get('items', [])
+    if payload and 'tree' in payload and 'items' in payload['tree']:
+        for item in payload['tree']['items']:
+            if search_term.lower() in item['name'].lower():
+                results.append(item)
+    return results
 
-    for item in items:
-        imgName = item['name'].lower()
-        for word in search_words:
-            if word in imgName:
-                if imgName not in matches:
-                    matches.append({'id':item, 'source':''})
+def download_logo(item, output_dir):
+    if item and 'name' in item and 'path' in item:
+        logo_name = item['name']
+        logo_path = item['path']
 
-    return matches
+        base_url = "https://raw.githubusercontent.com/tv-logo/tv-logos/main/"
+        logo_url = base_url + logo_path
 
-# Example usage
-if __name__ == "__main__":
-    file_path = 'example.html'  # Replace with your actual HTML file path
-    payload = extract_payload_from_file(file_path)
-    search_string = 'custom directory'
-    matches = search_tree_items(search_string, payload)
-    print(json.dumps(matches, indent=2))
+        os.makedirs(output_dir, exist_ok=True)
+
+        try:
+            response = requests.get(logo_url, stream=True)
+            response.raise_for_status()
+
+            filepath = os.path.join(output_dir, logo_name)
+            with open(filepath, 'wb') as f:
+                for chunk in response.iter_content(chunk_size=8192):
+                    f.write(chunk)
+
+            print(f"Logo scaricato con successo: {logo_name}")
+        except requests.exceptions.RequestException as e:
+            print(f"Errore durante il download del logo {logo_name}: {e}")
+    else:
+        print("Dati non validi per il download del logo.")
+
+# Esempio di utilizzo (da chiamare dallo script principale)
+if __name__ == '__main__':
+    filename = 'tv_logos_page.html'  # Sostituisci con il nome del file HTML
+    payload = extract_payload_from_file(filename)
+
+    if payload:
+        search_term = 'rai 1'  # Termine di ricerca di esempio
+        results = search_tree_items(search_term, payload)
+
+        if results:
+            print(f"Trovate {len(results)} corrispondenze:")
+            for item in results:
+                print(item['name'])
+                download_logo(item, 'output_logos')  # Sostituisci 'output_logos' con la tua directory
+        else:
+            print(f"Nessuna corrispondenza trovata per '{search_term}'.")
