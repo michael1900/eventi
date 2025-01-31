@@ -121,7 +121,10 @@ def addChannelsByLeagueSport(leagueSportTuple):
                             # tvLabel = channel["channel_name"]
 
                             with open(M3U8_OUTPUT_FILE, 'a', encoding='utf-8') as file:  # Use 'a' mode for appending
-                                file.write(f'#EXTINF:-1 tvg-id="{UniqueID}" tvg-name="{tvgName}" tvg-logo="{LOGO}" group-title="USA (DADDY LIVE)", {tvLabel}\n')
+                                file.write(f'#EXTINF:-1 tvg-id="{UniqueID}" tvg-name="{tvgName}" tvg-logo="{LOGO}" group-title="Live", {tvLabel}\n')
+                                file.write(f'#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/\n')
+                                file.write(f'#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1\n')
+                                file.write(f'#EXTVLCOPT:http-origin=https://ilovetoplay.xyz\n')
                                 file.write(f"https://xyzdddd.mizhls.ru/lb/premium{channelID}/index.m3u8\n")
                                 file.write('\n')
 
