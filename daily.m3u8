@@ -1,3 +1,4 @@
+#EXTM3U url-tvg="https://github.com/JHarding86/daddylive-m3u/raw/refs/heads/main/epg.xml"
 #EXTINF:-1 tvg-id="bdd640fb-0667-1ad1-1c80-317fa3b1799d" tvg-name="NHL : Winnipeg Jets vs Boston Bruins 01/30/25 - 05:00 PM (MST) Home Feed" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="Live", Home Feed
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
