@@ -159,6 +159,9 @@ for id in unique_ids:
         channelNumber = str(channelCount).zfill(3)
         tvgName = "OpenChannel" + channelNumber
         file.write(f'#EXTINF:-1 tvg-id="{id}" tvg-name="{tvgName}" tvg-logo="{LOGO}" group-title="USA (DADDY LIVE)", {tvgName}\n')
+        file.write(f'#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/\n')
+        file.write(f'#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1\n')
+        file.write(f'#EXTVLCOPT:http-origin=https://ilovetoplay.xyz\n')
         file.write(f"https://xyzdddd.mizhls.ru/lb/premium{channelNumber}/index.m3u8\n")
         file.write('\n')
         channelCount += 1

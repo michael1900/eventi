@@ -66,15 +66,7 @@ def filter_and_build_epg(urls):
 m3u4u_epg = os.getenv("M3U4U_EPG")
 
 urls = [
-	'https://www.bevy.be/generate/8TbvgWSctM.xml.gz',
-       'https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz',
-        'https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz',
-	'https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz',
-	'https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz',
-	'https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz',
-	'https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz',
-	'https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz',
-	'https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz',
+        'https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz',
 	'https://epg.pw/api/epg.xml?channel_id=8486',
 	'https://epg.pw/api/epg.xml?channel_id=12358',
 	'https://epg.pw/api/epg.xml?channel_id=9206',
