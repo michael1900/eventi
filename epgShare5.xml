@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20250131">
+<channel id="20.it"><display-name>20 Mediaset</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20_Mediaset_2018.svg/512px-20_Mediaset_2018.svg.png"/><url>https://tivu.tv</url></channel>
+<channel id="93"><display-name>Arte HD</display-name><url>https://tivu.tv</url></channel>
+<channel id="179"><display-name>Museum</display-name><url>https://tivu.tv</url></channel>
+<channel id="194"><display-name>CNBC</display-name><url>https://tivu.tv</url></channel>
+<channel id="AlJazeeraEnglish.qa"><display-name>Al Jazeera</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png"/><url>https://tivu.tv</url></channel>
+<channel id="BBCNewsEurope.uk"><display-name>BBC World News</display-name><icon src="https://i.imgur.com/vSz2WEp.png"/><url>https://tivu.tv</url></channel>
+<channel id="BloombergTVEurope.uk"><display-name>Bloomberg European TV</display-name><icon src="https://i.imgur.com/OuogLHx.png"/><url>https://tivu.tv</url></channel>
+<channel id="Boing.it"><display-name>Boing</display-name><icon src="https://i.imgur.com/rabKj9i.png"/><url>https://tivu.tv</url></channel>
+<channel id="Canale5.it"><display-name>Canale 5</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/512px-Canale_5_-_2018_logo.svg.png"/><url>https://tivu.tv</url></channel>
+<channel id="Cartoonito.it"><display-name>Cartoonito</display-name><icon src="https://i.imgur.com/6vYWCD0.png"/><url>https://tivu.tv</url></channel>
+<channel id="Cielo.it"><display-name>cielo</display-name><icon src="https://i.imgur.com/tWUy3yx.png"/><url>https://tivu.tv</url></channel>
+<channel id="Cine34.it"><display-name>Cine34</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cine34_logo.svg/512px-Cine34_logo.svg.png"/><url>https://tivu.tv</url></channel>
+<channel id="DMAX.it"><display-name>DMAX</display-name><icon src="https://i.imgur.com/uGd9fnn.png"/><url>https://tivu.tv</url></channel>
+<channel id="EQUtv.it"><display-name>UNIQtv HD</display-name><icon src="https://i.imgur.com/qGwFGQ4.png"/><url>https://tivu.tv</url></channel>
+<channel id="EuronewsItalian.fr"><display-name>Euronews Italian</display-name><icon src="https://i.imgur.com/8t9mdg9.png"/><url>https://tivu.tv</url></channel>
+<channel id="FashionTVEurope.fr"><display-name>Fashion TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png"/><url>https://tivu.tv</url></channel>
+<channel id="Focus.it"><display-name>Focus</display-name><icon src="https://upload.wikimedia.org/wikipedia/it/thumb/1/11/Focus_Logo.svg/512px-Focus_Logo.svg.png"/><url>https://tivu.tv</url></channel>
+<channel id="FoodNetwork.it"><display-name>Food Network</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/512px-Food_Network_New_Logo.png"/><url>https://tivu.tv</url></channel>
+<channel id="France24English.fr"><display-name>France 24 HD (in English)</display-name><icon src="https://i.imgur.com/B76eSg2.png"/><url>https://tivu.tv</url></channel>
+<channel id="France24French.fr"><display-name>France 24 HD (en Français)</display-name><icon src="https://i.imgur.com/u8N6uoj.png"/><url>https://tivu.tv</url></channel>
+<channel id="Frisbee.it"><display-name>frisbee</display-name><icon src="https://i.imgur.com/U1MF1vR.png"/><url>https://tivu.tv</url></channel>
+<channel id="Giallo.it"><display-name>GIALLO</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Giallo_-_Logo_2014.svg/512px-Giallo_-_Logo_2014.svg.png"/><url>https://tivu.tv</url></channel>
+<channel id="HGTV.it"><display-name>HGTV</display-name><icon src="https://i.imgur.com/ejPii8T.png"/><url>https://tivu.tv</url></channel>
+<channel id="HorseTVHD.it"><display-name>Horse TV</display-name><icon src="https://i.imgur.com/9lctpnP.png"/><url>https://tivu.tv</url></channel>
+<channel id="Iris.it"><display-name>Iris</display-name><icon src="https://i.imgur.com/ZLnSLh4.png"/><url>https://tivu.tv</url></channel>
+<channel id="Italia1.it"><display-name>Italia 1</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Italia_1.svg/512px-Italia_1.svg.png"/><url>https://tivu.tv</url></channel>
+<channel id="Italia2.it"><display-name>Mediaset ITALIA DUE</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Logo_Italia2.svg/512px-Logo_Italia2.svg.png"/><url>https://tivu.tv</url></channel>
+<channel id="K2.it"><display-name>K2</display-name><icon src="https://i.imgur.com/T1E8rFF.png"/><url>https://tivu.tv</url></channel>
+<channel id="KBSWorld.kr"><display-name>KBS HD</display-name><icon src="https://i.imgur.com/7DqgELX.png"/><url>https://tivu.tv</url></channel>
+<channel id="La5.it"><display-name>La 5</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/La5_Mediaset.svg/512px-La5_Mediaset.svg.png"/><url>https://tivu.tv</url></channel>
+<channel id="LA7.it"><display-name>LA7</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/512px-LA7_-_Logo_2011.svg.png"/><url>https://tivu.tv</url></channel>
+<channel id="LA7d.it"><display-name>LA7d</display-name><icon src="https://i.imgur.com/sM0A3GD.png"/><url>https://tivu.tv</url></channel>
+<channel id="MediasetExtra.it"><display-name>Mediaset EXTRA</display-name><icon src="https://i.imgur.com/G51Lvah.png"/><url>https://tivu.tv</url></channel>
+<channel id="Mezzo.fr"><display-name>MEZZO</display-name><icon src="https://i.imgur.com/auNdGeW.png"/><url>https://tivu.tv</url></channel>
+<channel id="MotorTrend.it"><display-name>Motor Trend</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/512px-Motor_Trend_logo.svg.png"/><url>https://tivu.tv</url></channel>
+<channel id="MyZenTV4K.fr"><display-name>MyZen TV</display-name><icon src="https://i.imgur.com/hjEKyR1.png"/><url>https://tivu.tv</url></channel>
+<channel id="NASATVUHD.us"><display-name>NASA</display-name><icon src="https://i.imgur.com/3R6ejrG.png"/><url>https://tivu.tv</url></channel>
+<channel id="NHKWorldJapan.jp"><display-name>NHK WORLD-JAPAN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png"/><url>https://tivu.tv</url></channel>
+<channel id="Nove.it"><display-name>NOVE</display-name><icon src="https://i.imgur.com/rTjIkGO.png"/><url>https://tivu.tv</url></channel>
+<channel id="QVC.it"><display-name>QVC</display-name><icon src="https://i.imgur.com/6TWUVrh.png"/><url>https://tivu.tv</url></channel>
+<channel id="RadioItaliaTV.it"><display-name>Radio Italia TV</display-name><icon src="https://i.imgur.com/XqNhQp6.png"/><url>https://tivu.tv</url></channel>
+<channel id="RadioMonteCarloTV.it"><display-name>RMC</display-name><icon src="https://i.imgur.com/by9XvWF.png"/><url>https://tivu.tv</url></channel>
+<channel id="Rai1.it"><display-name>Rai 1</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png"/><url>https://tivu.tv</url></channel>
+<channel id="Rai2.it"><display-name>Rai 2</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/512px-Rai_2_-_Logo_2016.svg.png"/><url>https://tivu.tv</url></channel>
+<channel id="Rai3.it"><display-name>Rai 3</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/512px-Rai_3_-_Logo_2016.svg.png"/><url>https://tivu.tv</url></channel>
+<channel id="Rai4.it"><display-name>Rai 4</display-name><icon src="https://i.imgur.com/sEY21rg.png"/><url>https://tivu.tv</url></channel>
+<channel id="Rai5.it"><display-name>Rai 5</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_5_-_Logo_2017.svg/512px-Rai_5_-_Logo_2017.svg.png"/><url>https://tivu.tv</url></channel>
+<channel id="RaiGulp.it"><display-name>Rai Gulp</display-name><icon src="https://i.imgur.com/irAhPJM.png"/><url>https://tivu.tv</url></channel>
+<channel id="RaiMovie.it"><display-name>Rai Movie</display-name><icon src="https://i.imgur.com/0FjxXU9.png"/><url>https://tivu.tv</url></channel>
+<channel id="RaiNews24.it"><display-name>Rai News 24</display-name><icon src="https://i.imgur.com/n2u57y3.png"/><url>https://tivu.tv</url></channel>
+<channel id="RaiSportHD.it"><display-name>Rai Sport</display-name><icon src="https://i.imgur.com/b7md85o.png"/><url>https://tivu.tv</url></channel>
+<channel id="RaiStoria.it"><display-name>Rai Storia</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/512px-Rai_Storia_-_Logo_2017.svg.png"/><url>https://tivu.tv</url></channel>
+<channel id="RaiYoyo.it"><display-name>Rai yoyo</display-name><icon src="https://i.imgur.com/9gCxiDy.png"/><url>https://tivu.tv</url></channel>
+<channel id="RDSSocialTV.it"><display-name>RDS Social TV</display-name><icon src="https://i.imgur.com/bxGvE8C.png"/><url>https://tivu.tv</url></channel>
+<channel id="RealTime.it"><display-name>Real Time</display-name><icon src="https://i.imgur.com/SPlk2Gx.png"/><url>https://tivu.tv</url></channel>
+<channel id="Rete4.it"><display-name>Rete 4</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Rete_4_2018.svg/512px-Rete_4_2018.svg.png"/><url>https://tivu.tv</url></channel>
+<channel id="RTL1025TV.it"><display-name>RTL 102.5</display-name><icon src="https://i.imgur.com/75qUdR7.png"/><url>https://tivu.tv</url></channel>
+<channel id="Super.it"><display-name>Super!</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/512px-Super%21_logo_2021.svg.png"/><url>https://tivu.tv</url></channel>
+<channel id="TGCom24.it"><display-name>TgCom24</display-name><icon src="https://i.imgur.com/fPmvbGH.png"/><url>https://tivu.tv</url></channel>
+<channel id="TopCrime.it"><display-name>Topcrime</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Top_Crime_-_Logo_2013.svg/512px-Top_Crime_-_Logo_2013.svg.png"/><url>https://tivu.tv</url></channel>
+<channel id="Travelxp4KEurope.in"><display-name>Travel XP</display-name><icon src="https://i.imgur.com/aHA4LkS.png"/><url>https://tivu.tv</url></channel>
+<channel id="TRMh24.it"><display-name>TRM h24</display-name><icon src="https://i.imgur.com/WEtsM4l.png"/><url>https://tivu.tv</url></channel>
+<channel id="TV8.it"><display-name>TV8</display-name><icon src="https://upload.wikimedia.org/wikipedia/it/thumb/6/6d/TV8_Logo_2016.svg/512px-TV8_Logo_2016.svg.png"/><url>https://tivu.tv</url></channel>
+<channel id="TV2000.it"><display-name>TV2000</display-name><icon src="https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Logo_tv2000_2015.svg/512px-Logo_tv2000_2015.svg.png"/><url>https://tivu.tv</url></channel>
+<channel id="Twentyseven.it"><display-name>27</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/512px-Twentyseven_logo.svg.png"/><url>https://tivu.tv</url></channel>
+<channel id="VH1.it"><display-name>VH1</display-name><icon src="https://i.imgur.com/ZZEvehR.png"/><url>https://tivu.tv</url></channel>
+<channel id="WarnerTV.it"><display-name>Warner TV Italy</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/512px-Warner2018LA.png"/><url>https://tivu.tv</url></channel>
+<channel id="ZonaDAZN2.it"><display-name>Zona DAZN 2</display-name><icon src="https://i.imgur.com/Jop3Vip.png"/><url>https://tivu.tv</url></channel>
+<channel id="ZonaDAZN.it"><display-name>Zona DAZN</display-name><icon src="https://i.imgur.com/Jop3Vip.png"/><url>https://tivu.tv</url></channel>
+<programme start="20250131000800 +0000" stop="20250131005000 +0000" channel="20.it"><title lang="it">ARROW</title></programme>
+<programme start="20250131005000 +0000" stop="20250131013000 +0000" channel="20.it"><title lang="it">ARROW</title></programme>
+<programme start="20250131013000 +0000" stop="20250131021600 +0000" channel="20.it"><title lang="it">SQUADRA ANTIMAFIA 5</title></programme>
+<programme start="20250131021600 +0000" stop="20250131031200 +0000" channel="20.it"><title lang="it">SHOW REEL - GENNAIO</title></programme>
+<programme start="20250131031200 +0000" stop="20250131035300 +0000" channel="20.it"><title lang="it">SUPERGIRL</title></programme>
+<programme start="20250131035300 +0000" stop="20250131050000 +0000" channel="20.it"><title lang="it">SUPERGIRL</title></programme>
+<programme start="20250131050000 +0000" stop="20250131052200 +0000" channel="20.it"><title lang="it">SHOW REEL - GENNAIO</title></programme>
+<programme start="20250131052200 +0000" stop="20250131060200 +0000" channel="20.it"><title lang="it">WALKER</title></programme>
+<programme start="20250131060200 +0000" stop="20250131064300 +0000" channel="20.it"><title lang="it">WALKER</title></programme>
+<programme start="20250131064300 +0000" stop="20250131074200 +0000" channel="20.it"><title lang="it">DR. HOUSE - MEDICAL DIVISION</title></programme>
+<programme start="20250131074200 +0000" stop="20250131084000 +0000" channel="20.it"><title lang="it">DR. HOUSE - MEDICAL DIVISION</title></programme>
+<programme start="20250131084000 +0000" stop="20250131091200 +0000" channel="20.it"><title lang="it">THE BIG BANG THEORY</title></programme>
+<programme start="20250131091200 +0000" stop="20250131093700 +0000" channel="20.it"><title lang="it">THE BIG BANG THEORY</title></programme>
+<programme start="20250131093700 +0000" stop="20250131103400 +0000" channel="20.it"><title lang="it">ARROW</title></programme>
+<programme start="20250131103400 +0000" stop="20250131113100 +0000" channel="20.it"><title lang="it">ARROW</title></programme>
+<programme start="20250131113100 +0000" stop="20250131122800 +0000" channel="20.it"><title lang="it">CHICAGO MED</title></programme>
+<programme start="20250131122800 +0000" stop="20250131132500 +0000" channel="20.it"><title lang="it">WALKER</title></programme>
+<programme start="20250131132500 +0000" stop="20250131142200 +0000" channel="20.it"><title lang="it">WALKER</title></programme>
+<programme start="20250131142200 +0000" stop="20250131152100 +0000" channel="20.it"><title lang="it">DR. HOUSE - MEDICAL DIVISION</title></programme>
+<programme start="20250131152100 +0000" stop="20250131162000 +0000" channel="20.it"><title lang="it">DR. HOUSE - MEDICAL DIVISION</title></programme>
+<programme start="20250131162000 +0000" stop="20250131171700 +0000" channel="20.it"><title lang="it">ARROW</title></programme>
+<programme start="20250131171700 +0000" stop="20250131180800 +0000" channel="20.it"><title lang="it">ARROW</title></programme>
+<programme start="20250131180800 +0000" stop="20250131185900 +0000" channel="20.it"><title lang="it">CHICAGO MED</title></programme>
+<programme start="20250131185900 +0000" stop="20250131192500 +0000" channel="20.it"><title lang="it">THE BIG BANG THEORY</title></programme>
+<programme start="20250131192500 +0000" stop="20250131195600 +0000" channel="20.it"><title lang="it">THE BIG BANG THEORY</title></programme>
+<programme start="20250131195600 +0000" stop="20250131205600 +0000" channel="20.it"><title lang="it">TORNARE A VINCERE</title></programme>
+<programme start="20250131205600 +0000" stop="20250131210400 +0000" channel="20.it"><title lang="it">TGCOM24 BREAKING NEWS</title></programme>
+<programme start="20250131210400 +0000" stop="20250131221600 +0000" channel="20.it"><title lang="it">TORNARE A VINCERE</title></programme>
+<programme start="20250131221600 +0000" stop="20250131230600 +0000" channel="20.it"><title lang="it">BUS 657</title></programme>
+<programme start="20250131230600 +0000" stop="20250131231400 +0000" channel="20.it"><title lang="it">TGCOM24 BREAKING NEWS</title></programme>
+<programme start="20250131231400 +0000" stop="20250201001400 +0000" channel="20.it"><title lang="it">BUS 657</title></programme>
+<programme start="20250201001400 +0000" stop="20250201005400 +0000" channel="20.it"><title lang="it">ARROW</title></programme>
+<programme start="20250201005400 +0000" stop="20250201013500 +0000" channel="20.it"><title lang="it">ARROW</title></programme>
+<programme start="20250201013500 +0000" stop="20250201022500 +0000" channel="20.it"><title lang="it">SQUADRA ANTIMAFIA 5</title></programme>
+<programme start="20250201022500 +0000" stop="20250201032100 +0000" channel="20.it"><title lang="it">SHOW REEL - GENNAIO</title></programme>
+<programme start="20250201032100 +0000" stop="20250201040200 +0000" channel="20.it"><title lang="it">SUPERGIRL</title></programme>
+<programme start="20250201040200 +0000" stop="20250201050000 +0000" channel="20.it"><title lang="it">SUPERGIRL</title></programme>
+<programme start="20250201050000 +0000" stop="20250201053000 +0000" channel="20.it"><title lang="it">SHOW REEL - GENNAIO</title></programme>
+<programme start="20250201053000 +0000" stop="20250201060000 +0000" channel="20.it"><title lang="it">SUPERGIRL</title></programme>
+<programme start="20250131000500 +0000" stop="20250131010000 +0000" channel="93"><title lang="it">Comment le gaz russe a gagné l?Ouest - Les défis d?un chantier colossal - 31. January 2025 à 01:05</title></programme>
+<programme start="20250131010000 +0000" stop="20250131015000 +0000" channel="93"><title lang="it">Chercheurs d&apos;or en Mongolie - Une aventure est-allemande - 31. January 2025 à 02:00</title></programme>
+<programme start="20250131015000 +0000" stop="20250131024500 +0000" channel="93"><title lang="it">Le peintre Emil Nolde - Des ombres aux tableaux - 31. January 2025 à 02:50</title></programme>
+<programme start="20250131024500 +0000" stop="20250131031500 +0000" channel="93"><title lang="it">Voyage en cuisine - La Réunion</title></programme>
+<programme start="20250131031500 +0000" stop="20250131040000 +0000" channel="93"><title lang="it">Cuisines des terroirs - Le Norrland, Suède - 31. January 2025 à 04:15</title></programme>
+<programme start="20250131040000 +0000" stop="20250131045500 +0000" channel="93"><title lang="it">L?humour, une drôle de thérapie - 31. January 2025 à 05:00</title></programme>
+<programme start="20250131045500 +0000" stop="20250131052500 +0000" channel="93"><title lang="it">ARTE Regards - Allemagne</title></programme>
+<programme start="20250131052500 +0000" stop="20250131053500 +0000" channel="93"><title lang="it">ARTE Journal Junior - 31. January 2025 à 06:25</title></programme>
+<programme start="20250131053500 +0000" stop="20250131060500 +0000" channel="93"><title lang="it">Voyage en cuisine - Écosse</title></programme>
+<programme start="20250131060500 +0000" stop="20250131065000 +0000" channel="93"><title lang="it">GEO Reportage - Zambie, les nomades du fleuve - 31. January 2025 à 07:05</title></programme>
+<programme start="20250131065000 +0000" stop="20250131073500 +0000" channel="93"><title lang="it">Invitation au voyage - Danemark / Cévennes / Indonésie - 31. January 2025 à 07:50</title></programme>
+<programme start="20250131073500 +0000" stop="20250131082500 +0000" channel="93"><title lang="it">Invitation au voyage - Athènes / Nouvelle-Calédonie / Vietnam - 31. January 2025 à 08:35</title></programme>
+<programme start="20250131082500 +0000" stop="20250131092000 +0000" channel="93"><title lang="it">GEO Reportage - Inde, la médecine ayurvédique - 31. January 2025 à 09:25</title></programme>
+<programme start="20250131092000 +0000" stop="20250131100000 +0000" channel="93"><title lang="it">Chats et chiens sauvages - Félins d&apos;Afrique, l&apos;espoir au bout des griffes - 31. January 2025 à 10:20</title></programme>
+<programme start="20250131100000 +0000" stop="20250131105000 +0000" channel="93"><title lang="it">Chats et chiens sauvages - Félins d&apos;Europe, les revenants - 31. January 2025 à 11:00</title></programme>
+<programme start="20250131105000 +0000" stop="20250131120000 +0000" channel="93"><title lang="it">Voyages en terres du Nord - L?Islande - 31. January 2025 à 11:50</title></programme>
+<programme start="20250131120000 +0000" stop="20250131123500 +0000" channel="93"><title lang="it">ARTE Regards - Un curé espagnol et ses 43 villages - 31. January 2025 à 13:00</title></programme>
+<programme start="20250131123500 +0000" stop="20250131142500 +0000" channel="93"><title lang="it">La péniche du bonheur - 31. January 2025 à 13:35</title></programme>
+<programme start="20250131142500 +0000" stop="20250131145500 +0000" channel="93"><title lang="it">Mange ta soupe - Viande cruelle - 31. January 2025 à 15:25</title></programme>
+<programme start="20250131145500 +0000" stop="20250131154000 +0000" channel="93"><title lang="it">Voyage au coeur de nos forêts - Sous les arbres, le changement - 31. January 2025 à 15:55</title></programme>
+<programme start="20250131154000 +0000" stop="20250131162500 +0000" channel="93"><title lang="it">Voyage au coeur de nos forêts - Sous les arbres, la renaissance - 31. January 2025 à 16:40</title></programme>
+<programme start="20250131162500 +0000" stop="20250131171000 +0000" channel="93"><title lang="it">Invitation au voyage - Argentine - 31. January 2025 à 17:25</title></programme>
+<programme start="20250131171000 +0000" stop="20250131175500 +0000" channel="93"><title lang="it">Invitation au voyage - Irma Stern au Cap / Suède / Paris - 31. January 2025 à 18:10</title></programme>
+<programme start="20250131175500 +0000" stop="20250131183000 +0000" channel="93"><title lang="it">Cuisines des terroirs - La province autonome de Voïvodine, Serbie - 31. January 2025 à 18:55</title></programme>
+<programme start="20250131183000 +0000" stop="20250131184500 +0000" channel="93"><title lang="it">Le dessous des cartes - Sinaï</title></programme>
+<programme start="20250131184500 +0000" stop="20250131190500 +0000" channel="93"><title lang="it">ARTE Journal - 31. January 2025 à 19:45</title></programme>
+<programme start="20250131190500 +0000" stop="20250131195200 +0000" channel="93"><title lang="it">28 minutes - 31. January 2025 à 20:05</title></programme>
+<programme start="20250131195200 +0000" stop="20250131195500 +0000" channel="93"><title lang="it">De Gaulle à la plage - La paranoïa - 31. January 2025 à 20:52</title></programme>
+<programme start="20250131195500 +0000" stop="20250131213000 +0000" channel="93"><title lang="it">Ingo Thiel - Lettres de l?au-delà - 31. January 2025 à 20:55</title></programme>
+<programme start="20250131213000 +0000" stop="20250131233000 +0000" channel="93"><title lang="it">Basic Instinct - 31. January 2025 à 22:30</title></programme>
+<programme start="20250131233000 +0000" stop="20250201002500 +0000" channel="93"><title lang="it">Sharon Stone, l&apos;instinct de survie - 1. February 2025 à 00:30</title></programme>
+<programme start="20250201002500 +0000" stop="20250201013000 +0000" channel="93"><title lang="it">The National - Southside Festival 2024 - 1. February 2025 à 01:25</title></programme>
+<programme start="20250201013000 +0000" stop="20250201022000 +0000" channel="93"><title lang="it">La montagne aux secrets (2/8) - Ron - 1. February 2025 à 02:30</title></programme>
+<programme start="20250201022000 +0000" stop="20250201031500 +0000" channel="93"><title lang="it">Les îles de la dernière chance - Une action de sauvetage aux Pays-Bas - 1. February 2025 à 03:20</title></programme>
+<programme start="20250201031500 +0000" stop="20250201042000 +0000" channel="93"><title lang="it">Mange ta soupe - Douceurs amères - 1. February 2025 à 04:15</title></programme>
+<programme start="20250201042000 +0000" stop="20250201043500 +0000" channel="93"><title lang="it">Le dessous des cartes - Sinaï</title></programme>
+<programme start="20250201043500 +0000" stop="20250201053500 +0000" channel="93"><title lang="it">Roy Orbison</title></programme>
+<programme start="20250201053500 +0000" stop="20250201060500 +0000" channel="93"><title lang="it">&quot;Pretty Woman&quot;, un conte de fées hollywoodien - 1. February 2025 à 06:35</title></programme>
+<programme start="20250131050000 +0000" stop="20250131053000 +0000" channel="194"><title lang="it">CNBC Converge</title></programme>
+<programme start="20250131053000 +0000" stop="20250131060000 +0000" channel="194"><title lang="it">CNBC On Assignment</title></programme>
+<programme start="20250201050000 +0000" stop="20250201053000 +0000" channel="194"><title lang="it">CNBC Converge</title></programme>
+<programme start="20250201053000 +0000" stop="20250201060000 +0000" channel="194"><title lang="it">CNBC On Assignment</title></programme>
+<programme start="20250201060000 +0000" stop="20250201070000 +0000" channel="194"><title lang="it">Cities of Success</title></programme>
+<programme start="20250201070000 +0000" stop="20250201080000 +0000" channel="194"><title lang="it">American Greed</title></programme>
+<programme start="20250201080000 +0000" stop="20250201083000 +0000" channel="194"><title lang="it">Answers with Bayless Conley</title></programme>
+<programme start="20250201083000 +0000" stop="20250201090000 +0000" channel="194"><title lang="it">Secret Lives of the Super Rich</title></programme>
+<programme start="20250201090000 +0000" stop="20250201093000 +0000" channel="194"><title lang="it">CNBC Converge</title></programme>
+<programme start="20250201093000 +0000" stop="20250201100000 +0000" channel="194"><title lang="it">CNBC On Assignment</title></programme>
+<programme start="20250201100000 +0000" stop="20250201110000 +0000" channel="194"><title lang="it">American Greed</title></programme>
+<programme start="20250201110000 +0000" stop="20250201130000 +0000" channel="194"><title lang="it">CNBC SPORTS: PGA TOUR 2025</title></programme>
+<programme start="20250201130000 +0000" stop="20250201133000 +0000" channel="194"><title lang="it">CNBC SPORTS: Jeddah Rally</title></programme>
+<programme start="20250201133000 +0000" stop="20250201140000 +0000" channel="194"><title lang="it">CNBC SPORTS: Mobil 1 The Grid</title></programme>
+<programme start="20250201140000 +0000" stop="20250201143000 +0000" channel="194"><title lang="it">CNBC SPORTS: World Downhill Skateboarding Championship 2024</title></programme>
+<programme start="20250201143000 +0000" stop="20250201150000 +0000" channel="194"><title lang="it">CNBC SPORTS: World Downhill Skateboarding Championship 2024</title></programme>
+<programme start="20250201150000 +0000" stop="20250201160000 +0000" channel="194"><title lang="it">Cities of Success</title></programme>
+<programme start="20250201160000 +0000" stop="20250201170000 +0000" channel="194"><title lang="it">American Greed</title></programme>
+<programme start="20250201170000 +0000" stop="20250201173000 +0000" channel="194"><title lang="it">CNBC Converge</title></programme>
+<programme start="20250201173000 +0000" stop="20250201180000 +0000" channel="194"><title lang="it">CNBC On Assignment</title></programme>
+<programme start="20250201180000 +0000" stop="20250201190000 +0000" channel="194"><title lang="it">Cities of Success</title></programme>
+<programme start="20250201190000 +0000" stop="20250201200000 +0000" channel="194"><title lang="it">American Greed</title></programme>
+<programme start="20250201200000 +0000" stop="20250201210000 +0000" channel="194"><title lang="it">The Tonight Show Starring Jimmy Fallon</title></programme>
+<programme start="20250201210000 +0000" stop="20250201220000 +0000" channel="194"><title lang="it">The Tonight Show Starring Jimmy Fallon</title></programme>
+<programme start="20250201220000 +0000" stop="20250201230000 +0000" channel="194"><title lang="it">American Greed</title></programme>
+<programme start="20250201230000 +0000" stop="20250201233000 +0000" channel="194"><title lang="it">Secret Lives of the Super Rich</title></programme>
+<programme start="20250201233000 +0000" stop="20250202000000 +0000" channel="194"><title lang="it">NBC Nightly News with Lester Holt</title></programme>
+<programme start="20250202000000 +0000" stop="20250202010000 +0000" channel="194"><title lang="it">The Tonight Show Starring Jimmy Fallon</title></programme>
+<programme start="20250202010000 +0000" stop="20250202020000 +0000" channel="194"><title lang="it">The Tonight Show Starring Jimmy Fallon</title></programme>
+<programme start="20250202020000 +0000" stop="20250202030000 +0000" channel="194"><title lang="it">The Tonight Show Starring Jimmy Fallon</title></programme>
+<programme start="20250202030000 +0000" stop="20250202040000 +0000" channel="194"><title lang="it">The Tonight Show Starring Jimmy Fallon</title></programme>
+<programme start="20250202040000 +0000" stop="20250202050000 +0000" channel="194"><title lang="it">American Greed</title></programme>
+<programme start="20250202050000 +0000" stop="20250202053000 +0000" channel="194"><title lang="it">Cities of Success</title></programme>
+<programme start="20250130230000 +0000" stop="20250130233000 +0000" channel="AlJazeeraEnglish.qa"><title lang="it">News Bulletin</title></programme>
+<programme start="20250130233000 +0000" stop="20250131000000 +0000" channel="AlJazeeraEnglish.qa"><title lang="it">Behind the News</title></programme>
+<programme start="20250131000000 +0000" stop="20250131000500 +0000" channel="AlJazeeraEnglish.qa"><title lang="it">News Summary</title></programme>
+<programme start="20250131000500 +0000" stop="20250131005500 +0000" channel="AlJazeeraEnglish.qa"><title lang="it">On the scale</title></programme>
+<programme start="20250131005500 +0000" stop="20250131010000 +0000" channel="AlJazeeraEnglish.qa"><title lang="it">Weather Forecast</title></programme>
+<programme start="20250131010000 +0000" stop="20250131013000 +0000" channel="AlJazeeraEnglish.qa"><title lang="it">News Bulletin</title></programme>
+<programme start="20250131013000 +0000" stop="20250131020000 +0000" channel="AlJazeeraEnglish.qa"><title lang="it">Smart Life</title></programme>
+<programme start="20250131020000 +0000" stop="20250131020500 +0000" channel="AlJazeeraEnglish.qa"><title lang="it">News Summary</title></programme>
+<programme start="20250131020500 +0000" stop="20250131030000 +0000" channel="AlJazeeraEnglish.qa"><title lang="it">Opposite Direction</title></programme>
+<programme start="20250131030000 +0000" stop="20250131030500 +0000" channel="AlJazeeraEnglish.qa"><title lang="it">News Summary</title></programme>
+<programme start="20250131030500 +0000" stop="20250131040000 +0000" channel="AlJazeeraEnglish.qa"><title lang="it">From Washington</title></programme>
+<programme start="20250131040000 +0000" stop="20250131043000 +0000" channel="AlJazeeraEnglish.qa"><title lang="it">News Bulletin</title></programme>
+<programme start="20250131043000 +0000" stop="20250131050000 +0000" channel="AlJazeeraEnglish.qa"><title lang="it">Behind the News</title></programme>
+<programme start="20250131050000 +0000" stop="20250131060000 +0000" channel="AlJazeeraEnglish.qa"><title lang="it">News Bulletin</title></programme>
+<programme start="20250131060000 +0000" stop="20250131060500 +0000" channel="AlJazeeraEnglish.qa"><title lang="it">News Bulletin</title></programme>
+<programme start="20250131060500 +0000" stop="20250131070000 +0000" channel="AlJazeeraEnglish.qa"><title lang="it">Al Jazeera This Morning</title></programme>
+<programme start="20250131070000 +0000" stop="20250131073000 +0000" channel="AlJazeeraEnglish.qa"><title lang="it">News Bulletin</title></programme>
+<programme start="20250131073000 +0000" stop="20250131080000 +0000" channel="AlJazeeraEnglish.qa"><title lang="it">Contemplation</title></programme>
+<programme start="20250131080000 +0000" stop="20250131110000 +0000" channel="AlJazeeraEnglish.qa"><title lang="it">This Day</title></programme>
+<programme start="20250131110000 +0000" stop="20250131115500 +0000" channel="AlJazeeraEnglish.qa"><title lang="it">News Bulletin</title></programme>
+<programme start="20250131115500 +0000" stop="20250131120000 +0000" channel="AlJazeeraEnglish.qa"><title lang="it">Weather Forecast</title></programme>
+<programme start="20250131120000 +0000" stop="20250131150000 +0000" channel="AlJazeeraEnglish.qa"><title lang="it">Al Jazeera Mid Day</title></programme>
+<programme start="20250131150000 +0000" stop="20250131160000 +0000" channel="AlJazeeraEnglish.qa"><title lang="it">News Bulletin</title></programme>
+<programme start="20250131160000 +0000" stop="20250131163000 +0000" channel="AlJazeeraEnglish.qa"><title lang="it">News Bulletin</title></programme>
+<programme start="20250131163000 +0000" stop="20250131170000 +0000" channel="AlJazeeraEnglish.qa"><title lang="it">Beyond Authority</title></programme>
+<programme start="20250131170000 +0000" stop="20250131173000 +0000" channel="AlJazeeraEnglish.qa"><title lang="it">News Bulletin</title></programme>
+<programme start="20250131173000 +0000" stop="20250131180000 +0000" channel="AlJazeeraEnglish.qa"><title lang="it">Behind the News</title></programme>
+<programme start="20250131180000 +0000" stop="20250131190500 +0000" channel="AlJazeeraEnglish.qa"><title lang="it">News Bulletin</title></programme>
+<programme start="20250131190500 +0000" stop="20250131200000 +0000" channel="AlJazeeraEnglish.qa"><title lang="it">Private Investigation</title></programme>
+<programme start="20250131200000 +0000" stop="20250131210000 +0000" channel="AlJazeeraEnglish.qa"><title lang="it">Today&apos;s Harvest</title></programme>
+<programme start="20250131210000 +0000" stop="20250131225500 +0000" channel="AlJazeeraEnglish.qa"><title lang="it">Mid Night</title></programme>
+<programme start="20250131225500 +0000" stop="20250131230000 +0000" channel="AlJazeeraEnglish.qa"><title lang="it">Weather Forecast</title></programme>
+<programme start="20250131230000 +0000" stop="20250131233000 +0000" channel="AlJazeeraEnglish.qa"><title lang="it">News Bulletin</title></programme>
+<programme start="20250131233000 +0000" stop="20250201000000 +0000" channel="AlJazeeraEnglish.qa"><title lang="it">Behind the News</title></programme>
+<programme start="20250201000000 +0000" stop="20250201000500 +0000" channel="AlJazeeraEnglish.qa"><title lang="it">News Summary</title></programme>
+<programme start="20250201000500 +0000" stop="20250201005500 +0000" channel="AlJazeeraEnglish.qa"><title lang="it">Scenarios</title></programme>
+<programme start="20250201005500 +0000" stop="20250201010000 +0000" channel="AlJazeeraEnglish.qa"><title lang="it">Weather Forecast</title></programme>
+<programme start="20250201010000 +0000" stop="20250201010500 +0000" channel="AlJazeeraEnglish.qa"><title lang="it">News Summary</title></programme>
+<programme start="20250201010500 +0000" stop="20250201020000 +0000" channel="AlJazeeraEnglish.qa"><title lang="it">From Washington</title></programme>
+<programme start="20250201020000 +0000" stop="20250201020500 +0000" channel="AlJazeeraEnglish.qa"><title lang="it">News Summary</title></programme>
+<programme start="20250201020500 +0000" stop="20250201030000 +0000" channel="AlJazeeraEnglish.qa"><title lang="it">On the scale</title></programme>
+<programme start="20250201030000 +0000" stop="20250201033000 +0000" channel="AlJazeeraEnglish.qa"><title lang="it">News Bulletin</title></programme>
+<programme start="20250201033000 +0000" stop="20250201040000 +0000" channel="AlJazeeraEnglish.qa"><title lang="it">Beyond Authority</title></programme>
+<programme start="20250201040000 +0000" stop="20250201043000 +0000" channel="AlJazeeraEnglish.qa"><title lang="it">News Bulletin</title></programme>
+<programme start="20250201043000 +0000" stop="20250201050000 +0000" channel="AlJazeeraEnglish.qa"><title lang="it">Behind the News</title></programme>
+<programme start="20250201050000 +0000" stop="20250201053000 +0000" channel="AlJazeeraEnglish.qa"><title lang="it">News Bulletin</title></programme>
+</tv>

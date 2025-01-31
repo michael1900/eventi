@@ -100,21 +100,25 @@ def print_possible_ids(possibleIds, channel):
         print(f'0). I dont want this channel.')
         for index, match in enumerate(possibleIds):
             print(f"{index+1}). {match['id']} {match['source']}")
-        
-        while True:
-            try:
-                user_input = int(input(f"Select the index of the Channel ID you want ({channel}):"))-1
-                if user_input == -1:
-                    print(f'Not adding a match for this channel.')
-                    return -1
-                if 0 <= user_input < len(possibleIds):
-                    selected_id = possibleIds[user_input]
-                    print(f'You selected: {selected_id}')
-                    return selected_id
-                else:
-                    print("Invalid index. Please try again.")
-            except ValueError:
-                print("Please enter a valid number.")
+
+    while True:  # Loop for valid input
+        try:
+            user_input = input(f"Do you want this channel? 0 = no 1 = yes ({channel[1]}):")
+            if user_input == "":  # Check for empty input
+                print("Please enter a number (0 or 1).")
+                continue # Go back to the start of the loop
+            user_input = int(user_input)  # Try to convert *after* checking for empty string
+
+            if user_input == 0:
+                continue # Skip to the next channel
+            elif user_input == 1:
+                print("Searching for matches...")
+                break  # Exit the loop if input is valid (0 or 1)
+            else:
+                print("Invalid input. Please enter 0 or 1.")
+
+        except ValueError:
+            print("Invalid input. Please enter a number.")
     else:
         print('No matches found.')
 
@@ -159,7 +163,7 @@ for epg in epgs:
     fetcher.fetchXML(epg['filename'], epg['url'])
 
 
-search_terms = ['taly']
+search_terms = ["taly"]
 
 
 payload = tvlogo.extract_payload_from_file(tvLogosFilename)
@@ -199,7 +203,7 @@ for channel in matches:
             file.write(f'#EXTINF:-1 tvg-id="{channelID["id"]}" tvg-name="{channel[1]}" tvg-logo="https://raw.githubusercontent.com{initialPath}{tvicon["id"]["path"]}" group-title="USA (DADDY LIVE)", {channel[1]}\n')
             file.write(f'#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/')
             file.write(f'#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1')
-            file.write(f'#EXTVLCOPT:http-origin=https://ilovetoplay.xyz')            
+            file.write(f'#EXTVLCOPT:http-origin=https://ilovetoplay.xyz')
             file.write(f"https://xyzdddd.mizhls.ru/lb/premium{channel[0]}/index.m3u8\n")
             file.write('\n')
 
