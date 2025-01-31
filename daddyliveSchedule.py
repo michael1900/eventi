@@ -114,8 +114,8 @@ def addChannelsByLeagueSport(leagueSportTuple):
 
                             global channelCount
                             tvLabel = tvgName
-                            channelCount = channelCount + 1
                             tvgName = "OpenChannel" + str(channelCount).zfill(3)
+                            channelCount = channelCount + 1
 
                             with open(M3U8_OUTPUT_FILE, 'a', encoding='utf-8') as file:  # Use 'a' mode for appending
                                 file.write(f'#EXTINF:-1 tvg-id="{UniqueID}" tvg-name="{tvgName}" tvg-logo="{LOGO}" group-title="Live", {tvLabel}\n')
