@@ -21,7 +21,7 @@ STATIC_LOGOS = {
     "rai 2": "https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rai-2-it.png",   # Sostituisci con l'URL desiderato
     "rai 3": "https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rai-3-it.png",   # Sostituisci con l'URL desiderato
     "eurosport 1": "https://github.com/tv-logo/tv-logos/blob/main/countries/spain/eurosport-1-es.png",   # Sostituisci con l'URL desiderato
-    "eurosport 2": "https://github.com/tv-logo/tv-logos/blob/main/countries/spain/eurosport-2-es.png"   # Sostituisci con l'URL desiderato
+    "eurosport 2": "https://github.com/tv-logo/tv-logos/blob/main/countries/italy/20-it.png?raw=true"   # Sostituisci con l'URL desiderato
 }
 
 epgs = [
