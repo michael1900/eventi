@@ -117,7 +117,7 @@ def generate_m3u8(matches, logo_dict):
         return
 
     with open("out.m3u8", 'w', encoding='utf-8') as file:
-        file.write('#EXTM3U url-tvg="https://raw.githubusercontent.com/emaschi/daddylive/main/epgShare1.xml"\n')
+        file.write('#EXTM3U url-tvg="https://raw.githubusercontent.com/emaschi123/eventi/main/epgShare1.xml"\n')
 
         for channel in matches:
             channel_id = channel[0]
