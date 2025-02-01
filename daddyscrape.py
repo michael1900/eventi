@@ -15,6 +15,10 @@ daddyLiveChannelsURL = 'https://thedaddy.to/24-7-channels.php'
 tvLogosFilename = 'tvlogos.html'
 tvLogosURL = 'https://github.com/tv-logo/tv-logos/tree/main/countries/italy'
 
+STATIC_LOGOS = {
+    "sky uno": "https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-uno-it.png"   # Sostituisci con l'URL desiderato
+}
+
 epgs = [
     {'filename': 'epgShare1.xml', 'url': 'https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz'}
 ]
@@ -85,14 +89,21 @@ def search_logo(channel_name, logo_dict):
     Cerca il logo corrispondente al nome del canale in logo_dict.
     Se il logo non viene trovato, restituisce un'icona predefinita.
     """
-    channel_name_lower = channel_name.lower()
+    channel_name_lower = channel_name.lower().strip()
     
-    # Controlla se esiste un logo con lo stesso nome del canale
-    for key in logo_dict.keys():
-        if key in channel_name_lower:  
-            return logo_dict[key]
+    # Controllo statico
+    for key, url in STATIC_LOGOS.items():
+        if key in channel_name_lower:
+            print(f"DEBUG: Trovato match statico per '{channel_name_lower}' -> {url}")
+            return url
 
-    # Se non trovato, usa il logo di default
+    for key, url in logo_dict.items():
+        if key in channel_name_lower:
+            print(f"DEBUG: Trovato match in logo_dict per '{channel_name_lower}' -> {url}")
+            return url
+
+    # Se nessuno corrisponde, restituisce il logo di default
+    print(f"DEBUG: Nessun logo trovato per '{channel_name_lower}', uso default.")
     return "https://raw.githubusercontent.com/emaschi123/eventi/refs/heads/main/ddlive.png"
 
 def generate_m3u8(matches, logo_dict):
@@ -106,7 +117,7 @@ def generate_m3u8(matches, logo_dict):
         for channel in matches:
             channel_id = channel[0]
             channel_name = channel[1].replace("Italy", "").replace("8", "").replace("(251)", "").replace("(252)", "").replace("(253)", "").replace("(254)", "").replace("(255)", "").replace("(256)", "").replace("(257)", "").replace("HD+", "").strip()  
-            
+
            # Cerca il logo nel dizionario
             tvicon_path = search_logo(channel_name, logo_dict)
             if not tvicon_path:
