@@ -97,7 +97,7 @@ def generate_m3u8(matches, payload):
                 tvicon_path = f'https://raw.githubusercontent.com{payload.get("initial_path", "")}/{logo_matches[0]["path"]}'
             else:
                 # Logo di default se non trovato
-                tvicon_path = "https://raw.githubusercontent.com/emaschi5/daddylive/refs/heads/main/stremioita.png"  
+                tvicon_path = "https://raw.githubusercontent.com/emaschi123/eventi/refs/heads/main/ddlive.png"  
 
             file.write(f"#EXTINF:-1 tvg-id=\"{channel_id}\" tvg-name=\"{channel_name}\" tvg-logo=\"{tvicon_path}\" group-title=\"TV ITA\", {channel_name}\n")
             file.write(f'#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/\n')
