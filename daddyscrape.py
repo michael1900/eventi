@@ -16,7 +16,12 @@ tvLogosFilename = 'tvlogos.html'
 tvLogosURL = 'https://github.com/tv-logo/tv-logos/tree/main/countries/italy'
 
 STATIC_LOGOS = {
-    "sky uno": "https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-uno-it.png"   # Sostituisci con l'URL desiderato
+    "sky uno": "https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-uno-it.png",   # Sostituisci con l'URL desiderato
+    "rai 1": "https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rai-1-it.png",   # Sostituisci con l'URL desiderato
+    "rai 2": "https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rai-2-it.png",   # Sostituisci con l'URL desiderato
+    "rai 3": "https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rai-3-it.png",   # Sostituisci con l'URL desiderato
+    "eurosport 1": "https://github.com/tv-logo/tv-logos/blob/main/countries/spain/eurosport-1-es.png",   # Sostituisci con l'URL desiderato
+    "eurosport 2": "https://github.com/tv-logo/tv-logos/blob/main/countries/spain/eurosport-2-es.png"   # Sostituisci con l'URL desiderato
 }
 
 epgs = [
