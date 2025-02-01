@@ -3,44 +3,52 @@ import os
 from bs4 import BeautifulSoup
 import requests
 
-def extract_payload_from_file(filename):
+def extract_tv_logos(filename):
+    logo_dict = {}
+
     try:
         with open(filename, 'r', encoding='utf-8') as f:
-            html_content = f.read()
-    except FileNotFoundError:
-        print(f"Error: File '{filename}' not found.")
-        return None
+            soup = BeautifulSoup(f.read(), 'html.parser')
+        
+        print("File HTML analizzato correttamente.")
 
-    soup = BeautifulSoup(html_content, 'html.parser')
-    script_tag = soup.find('script', type='application/json')
+        # Trova i tag che contengono i loghi
+        for item in soup.find_all('a', class_='js-navigation-open'):
+            logo_name = item.text.strip().lower().replace('.png', '')
+            logo_path = "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/" + item['href'].split('/')[-1]
 
-    if script_tag:
-        json_text = script_tag.string
-        try:
-            payload = json.loads(json_text)
-            return payload
-        except json.JSONDecodeError as e:
-            print(f"Error decoding JSON: {e}")
-            return None
-    else:
-        print("Error: Could not find JSON payload in the HTML.")
-        return None
+            logo_dict[logo_name] = logo_path
+        
+        print("Loghi trovati:", json.dumps(logo_dict, indent=2, ensure_ascii=False))
 
-def search_tree_items(search_term, payload):
-    results = []
+    except Exception as e:
+        print("Errore durante l'estrazione dei loghi:", e)
 
-    if payload and 'tree' in payload and 'items' in payload['tree']:
-        for item in payload['tree']['items']:
-            if search_term.lower() in item['name'].lower():
-                results.append(item)
-    return results
+    return logo_dict
+
+def search_logo(channel_name, logo_dict):
+    """
+    Cerca il logo corrispondente al nome del canale in logo_dict.
+    """
+    channel_name_lower = channel_name.lower().strip()
+    print(f"Cercando logo per: {channel_name_lower}")
+
+    for key in logo_dict.keys():
+        print(f"Confronto con: {key}")  # Debug
+
+        if key in channel_name_lower:
+            print(f"Trovato logo: {logo_dict[key]}")  # Debug
+            return logo_dict[key]
+
+    print("Logo non trovato, uso default.")
+    return "https://raw.githubusercontent.com/emaschi123/eventi/refs/heads/main/ddlive.png"
 
 def download_logo(item, output_dir):
     if item and 'name' in item and 'path' in item:
         logo_name = item['name']
         logo_path = item['path']
 
-        base_url = "https://raw.githubusercontent.com/tv-logo/tv-logos/main/"
+        base_url = "https://github.com/tv-logo/tv-logos/tree/main/countries/italy"
         logo_url = base_url + logo_path
 
         os.makedirs(output_dir, exist_ok=True)

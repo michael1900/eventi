@@ -6,6 +6,8 @@ import json
 import gzip
 import tvlogo
 import chardet
+from tvlogo import extract_tv_logos
+
 
 daddyLiveChannelsFileName = '247channels.html'
 daddyLiveChannelsURL = 'https://thedaddy.to/24-7-channels.php'
@@ -78,25 +80,36 @@ def search_channel_ids(file_path, search_string):
         print(f'Error processing {file_path}: {e}')
     return id_matches
 
-def generate_m3u8(matches, payload):
+def search_logo(channel_name, logo_dict):
+    """
+    Cerca il logo corrispondente al nome del canale in logo_dict.
+    Se il logo non viene trovato, restituisce un'icona predefinita.
+    """
+    channel_name_lower = channel_name.lower()
+    
+    # Controlla se esiste un logo con lo stesso nome del canale
+    for key in logo_dict.keys():
+        if key in channel_name_lower:  
+            return logo_dict[key]
+
+    # Se non trovato, usa il logo di default
+    return "https://raw.githubusercontent.com/emaschi123/eventi/refs/heads/main/ddlive.png"
+
+def generate_m3u8(matches, logo_dict):
     if not matches:
         print("No matches found. Skipping M3U8 generation.")
         return
-    
+
     with open("out.m3u8", 'w', encoding='utf-8') as file:
         file.write('#EXTM3U url-tvg="https://raw.githubusercontent.com/emaschi/daddylive/main/epgShare1.xml"\n')
-        
+
         for channel in matches:
             channel_id = channel[0]
-            channel_name = channel[1]
+            channel_name = channel[1].replace("Italy", "").replace("8", "").replace("(251)", "").replace("(252)", "").replace("(253)", "").replace("(254)", "").replace("(255)", "").replace("(256)", "").replace("(257)", "").replace("HD+", "").strip()  
             
-            # Cerca il logo nel payload
-            logo_matches = tvlogo.search_tree_items(channel_name, payload)
-            
-            if logo_matches and "path" in logo_matches[0]:
-                tvicon_path = f'https://raw.githubusercontent.com{payload.get("initial_path", "")}/{logo_matches[0]["path"]}'
-            else:
-                # Logo di default se non trovato
+           # Cerca il logo nel dizionario
+            tvicon_path = search_logo(channel_name, logo_dict)
+            if not tvicon_path:
                 tvicon_path = "https://raw.githubusercontent.com/emaschi123/eventi/refs/heads/main/ddlive.png"  
 
             file.write(f"#EXTINF:-1 tvg-id=\"{channel_id}\" tvg-name=\"{channel_name}\" tvg-logo=\"{tvicon_path}\" group-title=\"TV ITA\", {channel_name}\n")
@@ -104,7 +117,7 @@ def generate_m3u8(matches, payload):
             file.write(f'#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1\n')
             file.write(f'#EXTVLCOPT:http-origin=https://ilovetoplay.xyz\n')
             file.write(f"https://xyzdddd.mizhls.ru/lb/premium{channel_id}/index.m3u8\n\n")
-    
+
     print("M3U8 file generated successfully.")
 
 
@@ -121,5 +134,5 @@ for epg in epgs:
 
 # Process Data
 matches = search_streams(daddyLiveChannelsFileName, "italy")
-payload = tvlogo.extract_payload_from_file(tvLogosFilename)
-generate_m3u8(matches, payload)
+logo_dict = extract_tv_logos(tvLogosFilename)  # Estrai i loghi corretti
+generate_m3u8(matches, logo_dict)
