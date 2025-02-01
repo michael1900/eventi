@@ -35,8 +35,8 @@ jobs:
           
       - name: Force commit and push the changes (no history)
         run: |
-          git config --global user.email "emanuele.schiano@protonmail."
-          git config --global user.name "Your Name"
+          git config --global user.email "emanuele.schiano@protonmail.com"
+          git config --global user.name "emaschi123"
           git add .
           git commit -m "Update EPG"
           git push --force
