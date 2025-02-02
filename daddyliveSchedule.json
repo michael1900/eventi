@@ -1,5 +1,18 @@
 {
     "Sunday 02nd Feb 2025 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "22:05",
+                "event": "USA: USHL : Fargo Force vs Omaha Lancers",
+                "channels": [
+                    {
+                        "channel_name": "PPV Events",
+                        "channel_id": "68"
+                    }
+                ],
+                "channels2": []
+            }
+        ],
         "TV Show": [
             {
                 "time": "13:30",
