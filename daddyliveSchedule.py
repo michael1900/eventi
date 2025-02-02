@@ -91,7 +91,7 @@ def addChannelsByLeagueSport():
                             if channelCount == 1:
                                 file.write('#EXTM3U url-tvg="https://raw.githubusercontent.com/emaschi123/eventi/refs/heads/main/daily.xml"\n')
 
-                            file.write(f'#EXTINF:-1 tvg-id="Eventi" tvg-name="{tvgName}" tvg-logo="{LOGO}" group-title="Eventi", {tvLabel}\n')
+                            file.write(f'#EXTINF:-1 tvg-id="{UniqueID}" tvg-name="{tvgName}" tvg-logo="{LOGO}" group-title="Eventi", {tvLabel}\n')
                             file.write('#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/\n')
                             file.write('#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1\n')
                             file.write('#EXTVLCOPT:http-origin=https://ilovetoplay.xyz\n')
