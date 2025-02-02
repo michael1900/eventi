@@ -199,7 +199,7 @@ def generate_m3u8(matches):
         print("No matches found. Skipping M3U8 generation.")
         return
 
-    with open("out.m3u8", 'w', encoding='utf-8') as file:
+    with open("outworld.m3u8", 'w', encoding='utf-8') as file:
         file.write('#EXTM3U\n')
 
         for channel in matches:
@@ -209,7 +209,10 @@ def generate_m3u8(matches):
             tvg_id = search_tvg_id(channel_name)
             category = search_category(channel_name)
 
-            file.write(f"#EXTINF:-1 tvg-id=\"{tvg_id}\" tvg-name=\"{channel_name}\" tvg-logo=\"{tvicon_path}\" group-title=\"{category}\", {channel_name}\n")
+            # Se tvg_id non è definito, usa channel_id al suo posto
+            tvg_id_to_use = tvg_id if tvg_id != channel_name else channel_id
+
+            file.write(f"#EXTINF:-1 tvg-id=\"{tvg_id_to_use}\" tvg-name=\"{channel_name}\" tvg-logo=\"{tvicon_path}\" group-title=\"{category}\", {channel_name}\n")
             file.write(f'#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/\n')
             file.write(f'#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1\n')
             file.write(f'#EXTVLCOPT:http-origin=https://ilovetoplay.xyz\n')
@@ -222,10 +225,10 @@ delete_file_if_exists(daddyLiveChannelsFileName)
 fetch_with_debug(daddyLiveChannelsFileName, daddyLiveChannelsURL)
 
 # Cancella anche out.m3u8 prima di crearne uno nuovo
-delete_file_if_exists("out.m3u8")
+delete_file_if_exists("outworld.m3u8")
 
 # Elaborazione dati
-matches = search_streams(daddyLiveChannelsFileName, "italy")
+matches = search_streams(daddyLiveChannelsFileName, "")
 generate_m3u8(matches)
 
 # Parte EPG commentata
