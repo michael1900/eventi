@@ -41,13 +41,13 @@ def createSingleChannelEPGData(UniqueID, tvgName):
 
 def createSingleEPGData(startTime, stopTime, UniqueID, channelName, description):
     programme = ET.Element('programme', start=f"{startTime} +0000", stop=f"{stopTime} +0000", channel=UniqueID)
-
+    
     title = ET.SubElement(programme, 'title')
     desc = ET.SubElement(programme, 'desc')
-
+    
     title.text = channelName
     desc.text = description
-
+    
     return programme
 
 def addChannelsByLeagueSport():
@@ -60,13 +60,13 @@ def addChannelsByLeagueSport():
                         date_time = day.replace("th ", " ").replace("rd ", " ").replace("st ", " ").replace("nd ", " ").replace("Dec Dec", "Dec")
                         date_time = date_time.replace("-", game["time"] + " -")
                         date_format = "%A %d %b %Y %H:%M - Schedule Time UK GMT"
-
+                        
                         try:
                             start_date_utc = datetime.datetime.strptime(date_time, date_format)
                         except ValueError:
                             print(f"Errore nel parsing della data: {date_time}")
                             continue
-
+                        
                         amsterdam_timezone = pytz.timezone("Europe/Amsterdam")
                         start_date_amsterdam = start_date_utc.replace(tzinfo=pytz.utc).astimezone(amsterdam_timezone)
 
@@ -91,7 +91,7 @@ def addChannelsByLeagueSport():
                             if channelCount == 1:
                                 file.write('#EXTM3U url-tvg="https://raw.githubusercontent.com/emaschi123/eventi/refs/heads/main/daily.xml"\n')
 
-                            file.write(f'#EXTINF:-1 tvg-id="{UniqueID}" tvg-name="{tvgName}" tvg-logo="{LOGO}" group-title="Eventi", {tvLabel}\n')
+                            file.write(f'#EXTINF:-1 tvg-id="{UniqueID}" tvg-name="{tvgName}" tvg-logo="{LOGO}" group-title="Live", {tvLabel}\n')
                             file.write('#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/\n')
                             file.write('#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1\n')
                             file.write('#EXTVLCOPT:http-origin=https://ilovetoplay.xyz\n')
