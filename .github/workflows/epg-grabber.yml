@@ -39,6 +39,8 @@ jobs:
           python daddyliveSchedule.py
           python daddyscrape.py
           python daddyscrapeworld.py
+          python merge.py
+          python mergeita.py
           
       - name: Force commit and push the changes (no history)
         run: |
