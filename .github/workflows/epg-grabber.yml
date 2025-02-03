@@ -33,8 +33,10 @@ jobs:
           rm -f daily.m3u8
           rm -f daily.xml
           rm -f out.m3u8
-          rm -f outwprld.m3u8
+          rm -f outworld.m3u8
           rm -f 247channels.html
+          rm -f mergeita.m3u8
+          rm -f merge.m3u8
           python epg-grabber/getEpgs.py
           python daddyliveSchedule.py
           python daddyscrape.py
