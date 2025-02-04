@@ -217,16 +217,16 @@ STATIC_CATEGORIES = {
     "sky sport football": "Sport",
     "sky sport uno": "Sport",
     "sky sport arena": "Sport",
-    "sky cinema collection": "Cinema",
-    "sky cinema uno": "Cinema",
-    "sky cinema action": "Cinema",
-    "sky cinema comedy": "Cinema",
-    "sky cinema uno +24": "Cinema",
-    "sky cinema romance": "Cinema",
-    "sky cinema family": "Cinema",
-    "sky cinema due +24": "Cinema",
-    "sky cinema drama": "Cinema",
-    "sky cinema suspense": "Cinema",
+    "sky cinema collection": "Film & Serie TV",
+    "sky cinema uno": "Film & Serie TV",
+    "sky cinema action": "Film & Serie TV",
+    "sky cinema comedy": "Film & Serie TV",
+    "sky cinema uno +24": "Film & Serie TV",
+    "sky cinema romance": "Film & Serie TV",
+    "sky cinema family": "Film & Serie TV",
+    "sky cinema due +24": "Film & Serie TV",
+    "sky cinema drama": "Film & Serie TV",
+    "sky cinema suspense": "Film & Serie TV",
     "sky sport 24": "Sport",
     "sky sport calcio": "Sport",
     "sky calcio 1": "Sport",
@@ -299,7 +299,7 @@ def generate_m3u8_247(matches):  # Rinominata per evitare conflitti
     with open(M3U8_OUTPUT_FILE, 'a', encoding='utf-8') as file: # Appende al file esistente
         for channel in matches:
             channel_id = channel[0]
-            channel_name = channel[1].replace("Italy", "").replace("8", "").replace("(251)", "").replace("(252)", "").replace("(253)", "").replace("(254)", "").replace("(255)", "").replace("(256)", "").replace("(257)", "").replace("HD+", "").strip()
+            channel_name = channel[1].replace("Italy", "").replace("8", "").replace("(251)", "").replace("(252)", "").replace("(253)", "").replace("(254)", "").replace("(255)", "").replace("(256)", "").replace("(257)", "").replace("HD+", "").strip() + " (D)"
             tvicon_path = search_logo(channel_name)
             tvg_id = search_tvg_id(channel_name)
             category = search_category(channel_name)
