@@ -299,7 +299,7 @@ def generate_m3u8_247(matches):  # Rinominata per evitare conflitti
     with open(M3U8_OUTPUT_FILE, 'a', encoding='utf-8') as file: # Appende al file esistente
         for channel in matches:
             channel_id = channel[0]
-            channel_name = channel[1].replace("Italy", "").replace("8", "").replace("(251)", "").replace("(252)", "").replace("(253)", "").replace("(254)", "").replace("(255)", "").replace("(256)", "").replace("(257)", "").replace("HD+", "").strip() + " (D)"
+            channel_name = channel[1].replace("Italy", "").replace("8", "").replace("(251)", "").replace("(252)", "").replace("(253)", "").replace("(254)", "").replace("(255)", "").replace("(256)", "").replace("(257)", "").replace("HD+", "")
             tvicon_path = search_logo(channel_name)
             tvg_id = search_tvg_id(channel_name)
             category = search_category(channel_name)
