@@ -1,0 +1,2 @@
+https://github.com/emaschi123/mergione/raw/refs/heads/main/channels_italy.m3u8
+https://github.com/emaschi123/eventi/raw/refs/heads/main/mergeita.m3u8
