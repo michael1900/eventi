@@ -96,7 +96,7 @@ def addChannelsByLeagueSport():
 
                         with open(M3U8_OUTPUT_FILE, 'a', encoding='utf-8') as file:
                             if channelCount == 1:
-                                file.write('#EXTM3U"\n')
+                                file.write('#EXTM3U\n')
 
                             file.write(f'#EXTINF:-1 tvg-id="{UniqueID}" tvg-name="{tvgName}" tvg-logo="{LOGO}" group-title="Eventi", {tvLabel}\n')
                             file.write('#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/\n')
