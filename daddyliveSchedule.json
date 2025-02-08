@@ -10495,6 +10495,82 @@
                 "channels2": []
             }
         ],
+        "Tennis ATP - ROTTERDAM": [
+            {
+                "time": "14:00",
+                "event": "ATP - ROTTERDAM : De Minaur A. vs Bellucci M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 4",
+                        "channel_id": "1504"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "18:30",
+                "event": "ATP - ROTTERDAM : Alcaraz C. vs Hurkacz H.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 4",
+                        "channel_id": "1504"
+                    }
+                ],
+                "channels2": []
+            }
+        ],
+        "Tennis WTA - ABU DHABI": [
+            {
+                "time": "10:30",
+                "event": "WTA - ABU DHABI : Ostapenko J.\/Perez E. vs Mladenovic K.\/Zhang S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 21",
+                        "channel_id": "1521"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "13:00",
+                "event": "WTA - ABU DHABI : Bencic B. vs Krueger A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 1",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 21",
+                        "channel_id": "1521"
+                    }
+                ],
+                "channels2": []
+            }
+        ],
+        "Tennis WTA - CLUJ-NAPOCA": [
+            {
+                "time": "13:00",
+                "event": "WTA - CLUJ-NAPOCA : Potapova A. vs Sasnovich A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 5",
+                        "channel_id": "1505"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "15:00",
+                "event": "WTA - CLUJ-NAPOCA : Bronzetti L. vs Siniakova K.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 5",
+                        "channel_id": "1505"
+                    }
+                ],
+                "channels2": []
+            }
+        ],
         "Tennis": [
             {
                 "time": "13:00",
