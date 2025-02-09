@@ -145,149 +145,6 @@
                 "channels2": []
             },
             {
-                "time": "15:00",
-                "event": "2025 RMSHA Salt Pass Border Dash",
-                "channels": [
-                    {
-                        "channel_name": "Floracing",
-                        "channel_id": "197"
-                    }
-                ],
-                "channels2": []
-            },
-            {
-                "time": "16:00",
-                "event": "2025 PRO Superstar Shootout at Bradenton Motorsports Park",
-                "channels": [
-                    {
-                        "channel_name": "Floracing",
-                        "channel_id": "198"
-                    }
-                ],
-                "channels2": []
-            },
-            {
-                "time": "18:30",
-                "event": "AMA Supercross Championship Tampa 2025",
-                "channels": [
-                    {
-                        "channel_name": "Peacock",
-                        "channel_id": "162"
-                    }
-                ],
-                "channels2": []
-            },
-            {
-                "time": "19:00",
-                "event": "KOK World Series PPV",
-                "channels": [
-                    {
-                        "channel_name": "Event PPV",
-                        "channel_id": "163"
-                    }
-                ],
-                "channels2": []
-            },
-            {
-                "time": "19:00",
-                "event": "Polaris 31 PPV",
-                "channels": [
-                    {
-                        "channel_name": "UFC Fight Pass",
-                        "channel_id": "164"
-                    }
-                ],
-                "channels2": []
-            },
-            {
-                "time": "19:00",
-                "event": "Rage Kombat: Rebellion 2025",
-                "channels": [
-                    {
-                        "channel_name": "Triller TV",
-                        "channel_id": "165"
-                    }
-                ],
-                "channels2": []
-            },
-            {
-                "time": "22:00",
-                "event": "2025 Winter Freeze at Screven Motor Speedway",
-                "channels": [
-                    {
-                        "channel_name": "Floracing",
-                        "channel_id": "166"
-                    }
-                ],
-                "channels2": []
-            },
-            {
-                "time": "22:00",
-                "event": "2025 World Series of Asphalt at New Smyrna Speedway",
-                "channels": [
-                    {
-                        "channel_name": "Floracing",
-                        "channel_id": "167"
-                    }
-                ],
-                "channels2": []
-            },
-            {
-                "time": "22:15",
-                "event": "2025 Short Track Super Series Sunshine Swing at All-Tech Raceway",
-                "channels": [
-                    {
-                        "channel_name": "Floracing",
-                        "channel_id": "168"
-                    }
-                ],
-                "channels2": []
-            },
-            {
-                "time": "22:15",
-                "event": "World of Outlaws Sprint Cars",
-                "channels": [
-                    {
-                        "channel_name": "Event PPV",
-                        "channel_id": "169"
-                    }
-                ],
-                "channels2": []
-            },
-            {
-                "time": "22:45",
-                "event": "2025 Lucas Oil Late Model Dirt Series at Ocala Speedway",
-                "channels": [
-                    {
-                        "channel_name": "Floracing",
-                        "channel_id": "170"
-                    }
-                ],
-                "channels2": []
-            },
-            {
-                "time": "00:00",
-                "event": "OVW: Tough Love 2025v",
-                "channels": [
-                    {
-                        "channel_name": "Triller TV",
-                        "channel_id": "171"
-                    }
-                ],
-                "channels2": []
-            },
-            {
-                "time": "00:30",
-                "event": "ProBox Fight Night : Ramon Cardenas vs. Bryan Acosta",
-                "channels": [
-                    {
-                        "channel_name": "Event PPV",
-                        "channel_id": "172"
-                    }
-                ],
-                "channels2": []
-            },
-            {
                 "time": "01:00",
                 "event": "XRUMBLE Celebrity Boxing: Battle in the Bahamas - Giudice vs Noa",
                 "channels": [
@@ -4961,6 +4818,17 @@
                     {
                         "channel_name": "TVC Deportes",
                         "channel_id": "932"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "01:00",
+                "event": "Club Friendly : Olimpia vs Inter Miami",
+                "channels": [
+                    {
+                        "channel_name": "MLS Pass",
+                        "channel_id": "180"
                     }
                 ],
                 "channels2": []
@@ -10082,7 +9950,9 @@
                     }
                 ],
                 "channels2": []
-            },
+            }
+        ],
+        "Soccer": [
             {
                 "time": "06:00",
                 "event": "Australia - A-League : Macarthur vs Western United",
