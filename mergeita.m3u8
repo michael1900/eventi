@@ -3935,6 +3935,18 @@ https://dokko1new.iosplayer.ru/dokko1/premium460/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium461/mono.m3u8
 
+#EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport", Sky Sport Arena 
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium462/mono.m3u8
+
+#EXTINF:-1 tvg-id="skyuno.it" tvg-name="Sky UNO " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Intrattenimento", Sky UNO 
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium881/mono.m3u8
+
 #EXTINF:-1 tvg-id="skycinemacollection.it" tvg-name="Sky Cinema Collection " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Film & Serie TV", Sky Cinema Collection 
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
