@@ -388,7 +388,7 @@ STATIC_CATEGORIES = {
     "sky calcio 5": "Sport",
     "sky calcio 6": "Sport",
     "sky calcio 7": "Sport",
-    "sky serie": "Cinema",
+    "sky serie": "Film & Serie TV",
     "20 mediaset": "Intrattenimento",
 }
 
