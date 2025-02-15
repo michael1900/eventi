@@ -6948,17 +6948,6 @@
                 ]
             },
             {
-                "time": "17:50",
-                "event": "Men's basketball: Pekao SA Polish Cup semi-final match",
-                "channels": [
-                    {
-                        "channel_name": "Polsat Sport 2 Poland",
-                        "channel_id": "50"
-                    }
-                ],
-                "channels2": []
-            },
-            {
                 "time": "18:00",
                 "event": "German Cup : Frankfurt vs Bamberg",
                 "channels": [
@@ -7349,6 +7338,17 @@
             },
             {
                 "time": "19:40",
+                "event": "Polish Cup : Szczecin vs Anwil Wloclawek",
+                "channels": [
+                    {
+                        "channel_name": "Polsat Sport 2 Poland",
+                        "channel_id": "50"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "19:40",
                 "event": "Italian Cup Semifinals 2 : Trieste vs Trento",
                 "channels": [
                     {
@@ -7398,7 +7398,7 @@
             },
             {
                 "time": "20:30",
-                "event": "King Cup (T2025) Spanish Cup : Semifinal 2",
+                "event": "King Cup (T2025) Spanish Cup Semifinal 2 : Real Madrid vs Gran Canaria",
                 "channels": [
                     {
                         "channel_name": "Movistar Deportes Spain",
