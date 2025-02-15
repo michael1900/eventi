@@ -1,0 +1,464 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="eurosport_1" tvg-name="thisnot" tvg-logo="https://logos.example.com/EuroSport+1.png" group-title="Entertainment", EuroSport 1
+#EXTVLCOPT:http-referrer=https://linear311-it-dash1-prd.selector.skycdn.it
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://linear311-it-dash1-prd.selector.skycdn.it
+https://linear311-it-dash1-prd.selector.skycdn.it/016a/31917/FHD/skysport251/master.mpd?ck=MDAzNjM4NGY1OWEyYjgwZWQxNDJmODIyNTBjNzlmNzc6MmU2NTA3Y2I3NzlhMjg3MzliMGJiMTU2NGY0MTg4MjM=
+
+#EXTINF:-1 tvg-id="eurosport_1" tvg-name="EuroSport 1" tvg-logo="https://logos.example.com/EuroSport+1.png" group-title="Entertainment", EuroSport 1
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://wind.iosplayer.ru/wind/premium878/mono.m3u8
+
+#EXTINF:-1 tvg-id="eurosport_2" tvg-name="EuroSport 2" tvg-logo="https://logos.example.com/EuroSport+2.png" group-title="Entertainment", EuroSport 2
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://wind.iosplayer.ru/wind/premium879/mono.m3u8
+
+#EXTINF:-1 tvg-id="italia_1" tvg-name="Italia 1" tvg-logo="https://logos.example.com/Italia+1.png" group-title="Entertainment", Italia 1
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://wind.iosplayer.ru/wind/premium854/mono.m3u8
+
+#EXTINF:-1 tvg-id="la7" tvg-name="La7" tvg-logo="https://logos.example.com/La7.png" group-title="Entertainment", La7
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://wind.iosplayer.ru/wind/premium855/mono.m3u8
+
+#EXTINF:-1 tvg-id="rai_1" tvg-name="Rai 1" tvg-logo="https://logos.example.com/Rai+1.png" group-title="Entertainment", Rai 1
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddy6.iosplayer.ru/ddy6/premium850/mono.m3u8
+
+#EXTINF:-1 tvg-id="rai_2" tvg-name="Rai 2" tvg-logo="https://logos.example.com/Rai+2.png" group-title="Entertainment", Rai 2
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddy6.iosplayer.ru/ddy6/premium851/mono.m3u8
+
+#EXTINF:-1 tvg-id="rai_3" tvg-name="Rai 3" tvg-logo="https://logos.example.com/Rai+3.png" group-title="Entertainment", Rai 3
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://wind.iosplayer.ru/wind/premium852/mono.m3u8
+
+#EXTINF:-1 tvg-id="rai_3" tvg-name="Rai 3" tvg-logo="https://logos.example.com/Rai+3.png" group-title="Entertainment", Rai 3
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://wind.iosplayer.ru/wind/premium853/mono.m3u8
+
+#EXTINF:-1 tvg-id="rai_sport" tvg-name="Rai Sport" tvg-logo="https://logos.example.com/Rai+Sport.png" group-title="Entertainment", Rai Sport
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddy6.iosplayer.ru/ddy6/premium882/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_sports_golf" tvg-name="Sky Sports Golf" tvg-logo="https://logos.example.com/Sky+Sports+Golf.png" group-title="Entertainment", Sky Sports Golf
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddy6.iosplayer.ru/ddy6/premium574/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_sport_motogp" tvg-name="Sky Sport MotoGP" tvg-logo="https://logos.example.com/Sky+Sport+MotoGP.png" group-title="Entertainment", Sky Sport MotoGP
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddh2.iosplayer.ru/ddh2/premium575/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_sport_tennis" tvg-name="Sky Sport Tennis" tvg-logo="https://logos.example.com/Sky+Sport+Tennis.png" group-title="Entertainment", Sky Sport Tennis
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddy6.iosplayer.ru/ddy6/premium576/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_sport_f1" tvg-name="Sky Sport F1" tvg-logo="https://logos.example.com/Sky+Sport+F1.png" group-title="Entertainment", Sky Sport F1
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddh2.iosplayer.ru/ddh2/premium577/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_sport_football" tvg-name="Sky Sport Football" tvg-logo="https://logos.example.com/Sky+Sport+Football.png" group-title="Entertainment", Sky Sport Football
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://dokko1.iosplayer.ru/dokko1/premium460/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_sport_uno" tvg-name="Sky Sport UNO" tvg-logo="https://logos.example.com/Sky+Sport+UNO.png" group-title="Entertainment", Sky Sport UNO
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddy6.iosplayer.ru/ddy6/premium461/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_sport_arena" tvg-name="Sky Sport Arena" tvg-logo="https://logos.example.com/Sky+Sport+Arena.png" group-title="Entertainment", Sky Sport Arena
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddy6.iosplayer.ru/ddy6/premium462/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_uno" tvg-name="Sky UNO" tvg-logo="https://logos.example.com/Sky+UNO.png" group-title="Entertainment", Sky UNO
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://wind.iosplayer.ru/wind/premium881/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_cinema_collection" tvg-name="Sky Cinema Collection" tvg-logo="https://logos.example.com/Sky+Cinema+Collection.png" group-title="Entertainment", Sky Cinema Collection
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://wind.iosplayer.ru/wind/premium859/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_cinema_uno" tvg-name="Sky Cinema Uno" tvg-logo="https://logos.example.com/Sky+Cinema+Uno.png" group-title="Entertainment", Sky Cinema Uno
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://wind.iosplayer.ru/wind/premium860/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_cinema_action" tvg-name="Sky Cinema Action" tvg-logo="https://logos.example.com/Sky+Cinema+Action.png" group-title="Entertainment", Sky Cinema Action
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://wind.iosplayer.ru/wind/premium861/mono.m3u8
+
+#EXTINF:-1 tvg-id="8sky_cinema_comedy" tvg-name="8Sky Cinema Comedy" tvg-logo="https://logos.example.com/8Sky+Cinema+Comedy.png" group-title="Entertainment", 8Sky Cinema Comedy
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://wind.iosplayer.ru/wind/premium862/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_cinema_uno_+24" tvg-name="Sky Cinema Uno +24" tvg-logo="https://logos.example.com/Sky+Cinema+Uno+%2B24.png" group-title="Entertainment", Sky Cinema Uno +24
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://wind.iosplayer.ru/wind/premium863/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_cinema_romance" tvg-name="Sky Cinema Romance" tvg-logo="https://logos.example.com/Sky+Cinema+Romance.png" group-title="Entertainment", Sky Cinema Romance
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://wind.iosplayer.ru/wind/premium864/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_cinema_family" tvg-name="Sky Cinema Family" tvg-logo="https://logos.example.com/Sky+Cinema+Family.png" group-title="Entertainment", Sky Cinema Family
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://wind.iosplayer.ru/wind/premium865/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_cinema_due_+24" tvg-name="Sky Cinema Due +24" tvg-logo="https://logos.example.com/Sky+Cinema+Due+%2B24.png" group-title="Entertainment", Sky Cinema Due +24
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://wind.iosplayer.ru/wind/premium866/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_cinema_drama" tvg-name="Sky Cinema Drama" tvg-logo="https://logos.example.com/Sky+Cinema+Drama.png" group-title="Entertainment", Sky Cinema Drama
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://wind.iosplayer.ru/wind/premium867/mono.m3u8
+
+#EXTINF:-1 tvg-id="8sky_cinema_suspense" tvg-name="8Sky Cinema Suspense" tvg-logo="https://logos.example.com/8Sky+Cinema+Suspense.png" group-title="Entertainment", 8Sky Cinema Suspense
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddy6.iosplayer.ru/ddy6/premium868/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_sport_24" tvg-name="Sky Sport 24" tvg-logo="https://logos.example.com/Sky+Sport+24.png" group-title="Entertainment", Sky Sport 24
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://wind.iosplayer.ru/wind/premium869/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_sport_calcio" tvg-name="Sky Sport Calcio" tvg-logo="https://logos.example.com/Sky+Sport+Calcio.png" group-title="Entertainment", Sky Sport Calcio
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://wind.iosplayer.ru/wind/premium870/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_calcio_1_(251)" tvg-name="Sky Calcio 1 (251)" tvg-logo="https://logos.example.com/Sky+Calcio+1+%28251%29.png" group-title="Entertainment", Sky Calcio 1 (251)
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://zeko.iosplayer.ru/zeko/premium871/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_calcio_2_(252)" tvg-name="Sky Calcio 2 (252)" tvg-logo="https://logos.example.com/Sky+Calcio+2+%28252%29.png" group-title="Entertainment", Sky Calcio 2 (252)
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://wind.iosplayer.ru/wind/premium872/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_calcio_3_(253)" tvg-name="Sky Calcio 3 (253)" tvg-logo="https://logos.example.com/Sky+Calcio+3+%28253%29.png" group-title="Entertainment", Sky Calcio 3 (253)
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://wind.iosplayer.ru/wind/premium873/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_calcio_4_(254)" tvg-name="Sky Calcio 4 (254)" tvg-logo="https://logos.example.com/Sky+Calcio+4+%28254%29.png" group-title="Entertainment", Sky Calcio 4 (254)
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://wind.iosplayer.ru/wind/premium874/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_calcio_5_(255)" tvg-name="Sky Calcio 5 (255)" tvg-logo="https://logos.example.com/Sky+Calcio+5+%28255%29.png" group-title="Entertainment", Sky Calcio 5 (255)
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://wind.iosplayer.ru/wind/premium875/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_calcio_6_(256)" tvg-name="Sky Calcio 6 (256)" tvg-logo="https://logos.example.com/Sky+Calcio+6+%28256%29.png" group-title="Entertainment", Sky Calcio 6 (256)
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://wind.iosplayer.ru/wind/premium876/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_calcio_7_(257)" tvg-name="Sky Calcio 7 (257)" tvg-logo="https://logos.example.com/Sky+Calcio+7+%28257%29.png" group-title="Entertainment", Sky Calcio 7 (257)
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddh2.iosplayer.ru/ddh2/premium877/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_serie" tvg-name="Sky Serie" tvg-logo="https://logos.example.com/Sky+Serie.png" group-title="Entertainment", Sky Serie
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://wind.iosplayer.ru/wind/premium880/mono.m3u8
+
+#EXTINF:-1 tvg-id="20_mediaset" tvg-name="20 Mediaset" tvg-logo="https://logos.example.com/20+Mediaset.png" group-title="Entertainment", 20 Mediaset
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://wind.iosplayer.ru/wind/premium857/mono.m3u8
+
+#EXTINF:-1 tvg-id="eurosport_1" tvg-name="EuroSport 1" tvg-logo="https://logos.example.com/EuroSport+1.png" group-title="Entertainment", EuroSport 1
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://wind.iosplayer.ru/wind/premium878/mono.m3u8
+
+#EXTINF:-1 tvg-id="eurosport_2" tvg-name="EuroSport 2" tvg-logo="https://logos.example.com/EuroSport+2.png" group-title="Entertainment", EuroSport 2
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://wind.iosplayer.ru/wind/premium879/mono.m3u8
+
+#EXTINF:-1 tvg-id="italia_1" tvg-name="Italia 1" tvg-logo="https://logos.example.com/Italia+1.png" group-title="Entertainment", Italia 1
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://wind.iosplayer.ru/wind/premium854/mono.m3u8
+
+#EXTINF:-1 tvg-id="la7" tvg-name="La7" tvg-logo="https://logos.example.com/La7.png" group-title="Entertainment", La7
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://wind.iosplayer.ru/wind/premium855/mono.m3u8
+
+#EXTINF:-1 tvg-id="rai_1" tvg-name="Rai 1" tvg-logo="https://logos.example.com/Rai+1.png" group-title="Entertainment", Rai 1
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddy6.iosplayer.ru/ddy6/premium850/mono.m3u8
+
+#EXTINF:-1 tvg-id="rai_2" tvg-name="Rai 2" tvg-logo="https://logos.example.com/Rai+2.png" group-title="Entertainment", Rai 2
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddy6.iosplayer.ru/ddy6/premium851/mono.m3u8
+
+#EXTINF:-1 tvg-id="rai_3" tvg-name="Rai 3" tvg-logo="https://logos.example.com/Rai+3.png" group-title="Entertainment", Rai 3
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://wind.iosplayer.ru/wind/premium852/mono.m3u8
+
+#EXTINF:-1 tvg-id="rai_3" tvg-name="Rai 3" tvg-logo="https://logos.example.com/Rai+3.png" group-title="Entertainment", Rai 3
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://wind.iosplayer.ru/wind/premium853/mono.m3u8
+
+#EXTINF:-1 tvg-id="rai_sport" tvg-name="Rai Sport" tvg-logo="https://logos.example.com/Rai+Sport.png" group-title="Entertainment", Rai Sport
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddy6.iosplayer.ru/ddy6/premium882/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_sports_golf" tvg-name="Sky Sports Golf" tvg-logo="https://logos.example.com/Sky+Sports+Golf.png" group-title="Entertainment", Sky Sports Golf
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddy6.iosplayer.ru/ddy6/premium574/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_sport_motogp" tvg-name="Sky Sport MotoGP" tvg-logo="https://logos.example.com/Sky+Sport+MotoGP.png" group-title="Entertainment", Sky Sport MotoGP
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddh2.iosplayer.ru/ddh2/premium575/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_sport_tennis" tvg-name="Sky Sport Tennis" tvg-logo="https://logos.example.com/Sky+Sport+Tennis.png" group-title="Entertainment", Sky Sport Tennis
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddy6.iosplayer.ru/ddy6/premium576/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_sport_f1" tvg-name="Sky Sport F1" tvg-logo="https://logos.example.com/Sky+Sport+F1.png" group-title="Entertainment", Sky Sport F1
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddh2.iosplayer.ru/ddh2/premium577/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_sport_football" tvg-name="Sky Sport Football" tvg-logo="https://logos.example.com/Sky+Sport+Football.png" group-title="Entertainment", Sky Sport Football
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://dokko1.iosplayer.ru/dokko1/premium460/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_sport_uno" tvg-name="Sky Sport UNO" tvg-logo="https://logos.example.com/Sky+Sport+UNO.png" group-title="Entertainment", Sky Sport UNO
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddy6.iosplayer.ru/ddy6/premium461/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_sport_arena" tvg-name="Sky Sport Arena" tvg-logo="https://logos.example.com/Sky+Sport+Arena.png" group-title="Entertainment", Sky Sport Arena
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddy6.iosplayer.ru/ddy6/premium462/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_uno" tvg-name="Sky UNO" tvg-logo="https://logos.example.com/Sky+UNO.png" group-title="Entertainment", Sky UNO
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://wind.iosplayer.ru/wind/premium881/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_cinema_collection" tvg-name="Sky Cinema Collection" tvg-logo="https://logos.example.com/Sky+Cinema+Collection.png" group-title="Entertainment", Sky Cinema Collection
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://wind.iosplayer.ru/wind/premium859/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_cinema_uno" tvg-name="Sky Cinema Uno" tvg-logo="https://logos.example.com/Sky+Cinema+Uno.png" group-title="Entertainment", Sky Cinema Uno
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://wind.iosplayer.ru/wind/premium860/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_cinema_action" tvg-name="Sky Cinema Action" tvg-logo="https://logos.example.com/Sky+Cinema+Action.png" group-title="Entertainment", Sky Cinema Action
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://wind.iosplayer.ru/wind/premium861/mono.m3u8
+
+#EXTINF:-1 tvg-id="8sky_cinema_comedy" tvg-name="8Sky Cinema Comedy" tvg-logo="https://logos.example.com/8Sky+Cinema+Comedy.png" group-title="Entertainment", 8Sky Cinema Comedy
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://wind.iosplayer.ru/wind/premium862/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_cinema_uno_+24" tvg-name="Sky Cinema Uno +24" tvg-logo="https://logos.example.com/Sky+Cinema+Uno+%2B24.png" group-title="Entertainment", Sky Cinema Uno +24
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://wind.iosplayer.ru/wind/premium863/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_cinema_romance" tvg-name="Sky Cinema Romance" tvg-logo="https://logos.example.com/Sky+Cinema+Romance.png" group-title="Entertainment", Sky Cinema Romance
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://wind.iosplayer.ru/wind/premium864/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_cinema_family" tvg-name="Sky Cinema Family" tvg-logo="https://logos.example.com/Sky+Cinema+Family.png" group-title="Entertainment", Sky Cinema Family
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://wind.iosplayer.ru/wind/premium865/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_cinema_due_+24" tvg-name="Sky Cinema Due +24" tvg-logo="https://logos.example.com/Sky+Cinema+Due+%2B24.png" group-title="Entertainment", Sky Cinema Due +24
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://wind.iosplayer.ru/wind/premium866/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_cinema_drama" tvg-name="Sky Cinema Drama" tvg-logo="https://logos.example.com/Sky+Cinema+Drama.png" group-title="Entertainment", Sky Cinema Drama
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://wind.iosplayer.ru/wind/premium867/mono.m3u8
+
+#EXTINF:-1 tvg-id="8sky_cinema_suspense" tvg-name="8Sky Cinema Suspense" tvg-logo="https://logos.example.com/8Sky+Cinema+Suspense.png" group-title="Entertainment", 8Sky Cinema Suspense
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddy6.iosplayer.ru/ddy6/premium868/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_sport_24" tvg-name="Sky Sport 24" tvg-logo="https://logos.example.com/Sky+Sport+24.png" group-title="Entertainment", Sky Sport 24
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://wind.iosplayer.ru/wind/premium869/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_sport_calcio" tvg-name="Sky Sport Calcio" tvg-logo="https://logos.example.com/Sky+Sport+Calcio.png" group-title="Entertainment", Sky Sport Calcio
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://wind.iosplayer.ru/wind/premium870/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_calcio_1_(251)" tvg-name="Sky Calcio 1 (251)" tvg-logo="https://logos.example.com/Sky+Calcio+1+%28251%29.png" group-title="Entertainment", Sky Calcio 1 (251)
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://zeko.iosplayer.ru/zeko/premium871/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_calcio_2_(252)" tvg-name="Sky Calcio 2 (252)" tvg-logo="https://logos.example.com/Sky+Calcio+2+%28252%29.png" group-title="Entertainment", Sky Calcio 2 (252)
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://wind.iosplayer.ru/wind/premium872/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_calcio_3_(253)" tvg-name="Sky Calcio 3 (253)" tvg-logo="https://logos.example.com/Sky+Calcio+3+%28253%29.png" group-title="Entertainment", Sky Calcio 3 (253)
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://wind.iosplayer.ru/wind/premium873/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_calcio_4_(254)" tvg-name="Sky Calcio 4 (254)" tvg-logo="https://logos.example.com/Sky+Calcio+4+%28254%29.png" group-title="Entertainment", Sky Calcio 4 (254)
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://wind.iosplayer.ru/wind/premium874/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_calcio_5_(255)" tvg-name="Sky Calcio 5 (255)" tvg-logo="https://logos.example.com/Sky+Calcio+5+%28255%29.png" group-title="Entertainment", Sky Calcio 5 (255)
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://wind.iosplayer.ru/wind/premium875/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_calcio_6_(256)" tvg-name="Sky Calcio 6 (256)" tvg-logo="https://logos.example.com/Sky+Calcio+6+%28256%29.png" group-title="Entertainment", Sky Calcio 6 (256)
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://wind.iosplayer.ru/wind/premium876/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_calcio_7_(257)" tvg-name="Sky Calcio 7 (257)" tvg-logo="https://logos.example.com/Sky+Calcio+7+%28257%29.png" group-title="Entertainment", Sky Calcio 7 (257)
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddh2.iosplayer.ru/ddh2/premium877/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky_serie" tvg-name="Sky Serie" tvg-logo="https://logos.example.com/Sky+Serie.png" group-title="Entertainment", Sky Serie
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://wind.iosplayer.ru/wind/premium880/mono.m3u8
+
+#EXTINF:-1 tvg-id="20_mediaset" tvg-name="20 Mediaset" tvg-logo="https://logos.example.com/20+Mediaset.png" group-title="Entertainment", 20 Mediaset
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://wind.iosplayer.ru/wind/premium857/mono.m3u8
+
