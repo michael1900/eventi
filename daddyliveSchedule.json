@@ -1,22 +1,5 @@
 {
     "Monday 17th Feb 2025 - Schedule Time UK GMT": {
-        "TESTTT": [
-            {
-                "time": "16:00",
-                "event": "Mathis Court With Judge Mathis Season 2, Episode 16",
-                "channels": [
-                    {
-                        "channel_name": "CW USA",
-                        "channel_id": "300"
-                    },
-                    {
-                        "channel_name": "CW PIX 11 USA",
-                        "channel_id": "280"
-                    }
-                ],
-                "channels2": []
-            }
-        ],
         "TV Shows": [
             {
                 "time": "16:00",
@@ -3151,8 +3134,19 @@
                 ]
             },
             {
+                "time": "20:30",
+                "event": "ATP - Rio de Janeiro (BRA) : Juan Manuel Cerundolo - Nicolas Jarry",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7499026",
+                        "channel_id": "7499026"
+                    }
+                ]
+            },
+            {
                 "time": "20:40",
-                "event": "ATP - Rio de Janeiro (BRA) : Gustavo Heide vs Francisco Comesana",
+                "event": "ATP - Rio de Janeiro (BRA) : Gustavo Heide - Francisco Comesana",
                 "channels": [],
                 "channels2": [
                     {
@@ -3162,8 +3156,19 @@
                 ]
             },
             {
+                "time": "21:00",
+                "event": "ITF (F) - Spring (USA) - Qualifiers : Gabriela Lee - Eryn Cayetano",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7499560",
+                        "channel_id": "7499560"
+                    }
+                ]
+            },
+            {
                 "time": "21:40",
-                "event": "ATP - Rio de Janeiro (BRA) - Double : S.Doumbia\/F.Reboul vs S.Gonzalez\/L.Miedler",
+                "event": "ATP - Rio de Janeiro (BRA) - Double : S.Doumbia\/F.Reboul - S.Gonzalez\/L.Miedler",
                 "channels": [],
                 "channels2": [
                     {
@@ -3173,8 +3178,19 @@
                 ]
             },
             {
+                "time": "21:50",
+                "event": "ATP - Rio de Janeiro (BRA) : Chun Hsin Tseng - Alejandro Tabilo",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7499025",
+                        "channel_id": "7499025"
+                    }
+                ]
+            },
+            {
                 "time": "22:00",
-                "event": "ATP - Rio de Janeiro (BRA) : Facundo Diaz Acosta vs Thiago Moura Monteiro",
+                "event": "ATP - Rio de Janeiro (BRA) : Facundo Diaz Acosta - Thiago Moura Monteiro",
                 "channels": [],
                 "channels2": [
                     {
@@ -3184,13 +3200,189 @@
                 ]
             },
             {
+                "time": "23:00",
+                "event": "ITF (M) - Burnie (AUS) : Kosuke Ogura - Sanhui Shin",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7500485",
+                        "channel_id": "7500485"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "ITF (F) - Burnie (AUS) : Ayumi Koshiishi - Elena Micic",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7500486",
+                        "channel_id": "7500486"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "ITF (F) - Burnie (AUS) : Alana Parnaby - Fang An Lin",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7500627",
+                        "channel_id": "7500627"
+                    }
+                ]
+            },
+            {
                 "time": "23:10",
-                "event": "ATP - Rio de Janeiro (BRA) : Jaume Munar vs Thiago Seyboth Wild",
+                "event": "ATP - Rio de Janeiro (BRA) : Jaume Munar - Thiago Seyboth Wild",
                 "channels": [],
                 "channels2": [
                     {
                         "channel_name": "SD-7493061",
                         "channel_id": "7493061"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "UTR (M) - Kawaguchi (JAP) : S.van Weldam - Taketo Takamisawa",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7491875",
+                        "channel_id": "7491875"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "UTR (M) - Kawaguchi (JAP) : Kotaro Mochizuki - Amit Beniwal",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7491844",
+                        "channel_id": "7491844"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "UTR (M) - Kawaguchi (JAP) : Arthav Neema - Yusuke Yoshikawa",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7491873",
+                        "channel_id": "7491873"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "UTR (F) - Kawaguchi (JAP) : Mua Shigeta - Seri Nayuki",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7490609",
+                        "channel_id": "7490609"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "UTR (F) - Kawaguchi (JAP) : Kanako Osafune - Rina Komatsu",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7490898",
+                        "channel_id": "7490898"
+                    }
+                ]
+            },
+            {
+                "time": "02:10",
+                "event": "UTR (F) - Kawaguchi (JAP) : Mayuka Aikawa - Kanna Soeda",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7490627",
+                        "channel_id": "7490627"
+                    }
+                ]
+            },
+            {
+                "time": "02:10",
+                "event": "UTR (F) - Kawaguchi (JAP) : Yuka Matsumoto - Junri Namigata",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7490906",
+                        "channel_id": "7490906"
+                    }
+                ]
+            },
+            {
+                "time": "02:10",
+                "event": "UTR (M) - Kawaguchi (JAP) : Goki Niinomi - Hikaru Takahashi",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7494691",
+                        "channel_id": "7494691"
+                    }
+                ]
+            },
+            {
+                "time": "02:10",
+                "event": "UTR (M) - Kawaguchi (JAP) : Christopher Kosei Ono - Keisuke Yagi",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7491863",
+                        "channel_id": "7491863"
+                    }
+                ]
+            },
+            {
+                "time": "02:30",
+                "event": "UTR (F) - Newport Beach (USA) : Camille Kiss - Polina Jorniak",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7488619",
+                        "channel_id": "7488619"
+                    }
+                ]
+            },
+            {
+                "time": "03:20",
+                "event": "UTR (M) - Kawaguchi (JAP) : Ryunosuke Kabasawa - Ryoto Tachi",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7491876",
+                        "channel_id": "7491876"
+                    }
+                ]
+            },
+            {
+                "time": "03:20",
+                "event": "UTR (F) - Kawaguchi (JAP) : Yui Ohwaki - Naomi Hagi",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7490907",
+                        "channel_id": "7490907"
+                    }
+                ]
+            },
+            {
+                "time": "03:20",
+                "event": "UTR (M) - Kawaguchi (JAP) : Ryotero Matsumura vs Yuga Tashiro",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7491836",
+                        "channel_id": "7491836"
                     }
                 ]
             }
