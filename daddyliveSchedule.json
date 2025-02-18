@@ -1781,25 +1781,6 @@
                 ]
             },
             {
-                "time": "01:00",
-                "event": "CONCACAF Champions Cup : Sporting KC vs Inter Miami",
-                "channels": [
-                    {
-                        "channel_name": "Fox Sports 2 USA",
-                        "channel_id": "758"
-                    },
-                    {
-                        "channel_name": "TUDN USA",
-                        "channel_id": "66"
-                    },
-                    {
-                        "channel_name": "ESPN4 Brazil",
-                        "channel_id": "85"
-                    }
-                ],
-                "channels2": []
-            },
-            {
                 "time": "01:20",
                 "event": "Colombia - Primera A : Boyac\u00e1 Chic\u00f3 vs Junior",
                 "channels": [
