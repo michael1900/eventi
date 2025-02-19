@@ -21,7 +21,7 @@ mStopTime = 0
 
 # File e URL statici per la seconda parte dello script
 daddyLiveChannelsFileName = '247channels.html'
-daddyLiveChannelsURL = 'https://thedaddy.to/24-7-channels.php'
+daddyLiveChannelsURL = 'https://daddylive.mp/24-7-channels.php'
 
 # Headers and related constants from the first code block (assuming these are needed for requests)
 Referer = "https://ilovetoplay.xyz/"
@@ -53,7 +53,7 @@ def get_stream_link(dlhd_id, max_retries=3):
         try:
             # Use timeout for all requests
             response = client.get(
-                f"https://thedaddy.to/embed/stream-{dlhd_id}.php",
+                f"https://daddylive.mp/embed/stream-{dlhd_id}.php",
                 headers=headers,
                 timeout=base_timeout
             )
