@@ -4871,6 +4871,12 @@ https://windnew.iosplayer.ru/wind/premium103/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://windnew.iosplayer.ru/wind/premium104/mono.m3u8
 
+#EXTINF:-1 tvg-id="a6fd0cb1-16e6-e5c0-c4cb-294fe86e8e63" tvg-name="Asia Cup : Chinese Taipei vs Philippines 02/20/25 - 12:00 (CET) Sport Klub 7 Serbia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Asia Cup : Chinese Taipei vs Philippines 02/20/25 - 12:00 (CET) Sport Klub 7 Serbia
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium172/mono.m3u8
+
 #EXTINF:-1 tvg-id="bd1a8f4b-88ff-bd40-3b72-c86d92fa675f" tvg-name="Asia Cup : Hong Kong vs New Zealand 02/20/25 - 12:00 (CET) Sport Klub 6 Serbia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Asia Cup : Hong Kong vs New Zealand 02/20/25 - 12:00 (CET) Sport Klub 6 Serbia
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -4918,6 +4924,12 @@ https://dokko1new.iosplayer.ru/dokko1/premium637/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://windnew.iosplayer.ru/wind/premium468/mono.m3u8
+
+#EXTINF:-1 tvg-id="9a4ffc0c-9165-f2ed-4c63-6e95025f5543" tvg-name="EuroBasket : Bulgaria vs Sweden 02/20/25 - 18:30 (CET) Sport Klub 7 Serbia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", EuroBasket : Bulgaria vs Sweden 02/20/25 - 18:30 (CET) Sport Klub 7 Serbia
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium172/mono.m3u8
 
 #EXTINF:-1 tvg-id="55c551fc-fba5-7cc8-edaf-37661b780ede" tvg-name="EuroBasket : Latvia vs Spain 02/20/25 - 18:30 (CET) Nova Sports 5 Greece" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", EuroBasket : Latvia vs Spain 02/20/25 - 18:30 (CET) Nova Sports 5 Greece
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
