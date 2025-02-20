@@ -1,5 +1,18 @@
 {
     "Thursday 20th Feb 2025 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "00:00",
+                "event": "OVW Live #1332",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "68"
+                    }
+                ],
+                "channels2": []
+            }
+        ],
         "TV Shows": [
             {
                 "time": "13:00",
