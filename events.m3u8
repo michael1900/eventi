@@ -2735,12 +2735,6 @@ https://zekonew.iosplayer.ru/zeko/premium338/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium411/mono.m3u8
 
-#EXTINF:-1 tvg-id="d56ce8ea-1959-7b5a-a7a8-f6366a35df59" tvg-name="NBA : Boston Celtics vs Philadelphia 76ers 02/20/25 - 01:00 (CET) Sport TV2 Portugal" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Boston Celtics vs Philadelphia 76ers 02/20/25 - 01:00 (CET) Sport TV2 Portugal
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://dokko1new.iosplayer.ru/dokko1/premium74/mono.m3u8
-
 #EXTINF:-1 tvg-id="f065c817-687a-4850-9d9b-62317d45d8ef" tvg-name="NBA : Boston Celtics vs Philadelphia 76ers 02/20/25 - 01:00 (CET) Canal+ Sport Poland" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Boston Celtics vs Philadelphia 76ers 02/20/25 - 01:00 (CET) Canal+ Sport Poland
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
