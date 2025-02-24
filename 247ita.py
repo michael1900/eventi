@@ -367,7 +367,7 @@ def generate_m3u8_247(matches):  # Rinominata per evitare conflitti
 
     with open(M3U8_OUTPUT_FILE, 'a', encoding='utf-8') as file:  # Appende al file esistente
         if file_empty:
-            file.write("#EXTM3U\n")  # Aggiunge l'intestazione solo se il file è nuovo o vuoto
+            file.write("#EXTM3U url-tvg="http://epg-guide.com/it.gz\n")  # Aggiunge l'intestazione solo se il file è nuovo o vuoto
 
         for channel in matches:
             channel_id = channel[0]
