@@ -863,6 +863,12 @@ https://windnew.iosplayer.ru/wind/premium475/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium149/mono.m3u8
 
+#EXTINF:-1 tvg-id="b4a69f3c-8d3a-ed99-711c-21c9bdc14f1f" tvg-name="Spain - La Liga : Sevilla vs Mallorca 02/24/25 - 21:00 (CET) SuperSport Grandstand" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Spain - La Liga : Sevilla vs Mallorca 02/24/25 - 21:00 (CET) SuperSport Grandstand
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium412/mono.m3u8
+
 #EXTINF:-1 tvg-id="1ca3c448-0279-b6a6-8f97-97b06d7ce3c9" tvg-name="Spain - La Liga : Sevilla vs Mallorca 02/24/25 - 21:00 (CET) SuperSport Laliga" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Spain - La Liga : Sevilla vs Mallorca 02/24/25 - 21:00 (CET) SuperSport Laliga
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1096,6 +1102,12 @@ https://zekonew.iosplayer.ru/zeko/premium38/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium588/mono.m3u8
+
+#EXTINF:-1 tvg-id="7118e364-7709-7749-527e-ecfaa79ac9aa" tvg-name="ICC Champions Trophy : Bangladesh vs New Zealand 02/24/25 - 10:00 (CET) SuperSport Cricket" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", ICC Champions Trophy : Bangladesh vs New Zealand 02/24/25 - 10:00 (CET) SuperSport Cricket
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium368/mono.m3u8
 
 #EXTINF:-1 tvg-id="82dc4c8e-36b5-229a-acf5-e81e71316269" tvg-name="ICC Champions Trophy : Bangladesh vs New Zealand 02/24/25 - 10:00 (CET) SuperSport Grandstand" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", ICC Champions Trophy : Bangladesh vs New Zealand 02/24/25 - 10:00 (CET) SuperSport Grandstand
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -1924,6 +1936,30 @@ https://dokko1new.iosplayer.ru/dokko1/premium625/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium707/mono.m3u8
+
+#EXTINF:-1 tvg-id="d32e6dcd-83bc-9478-dd6a-c7b86778043b" tvg-name="NBA : Portland Trail Blazers vs Utah Jazz 02/24/25 - 03:00 (CET) Home Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Portland Trail Blazers vs Utah Jazz 02/24/25 - 03:00 (CET) Home Feed
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddh2new.iosplayer.ru/ddh2/premium14/mono.m3u8
+
+#EXTINF:-1 tvg-id="de8ede0b-a85c-6e4a-004b-6fabfcf56188" tvg-name="NBA : Portland Trail Blazers vs Utah Jazz 02/24/25 - 03:00 (CET) Away Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Portland Trail Blazers vs Utah Jazz 02/24/25 - 03:00 (CET) Away Feed
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddh2new.iosplayer.ru/ddh2/premium15/mono.m3u8
+
+#EXTINF:-1 tvg-id="0de051a6-69ca-97d2-7644-14fd8ae769ed" tvg-name="NBA : Charlotte Hornets vs Sacramento Kings 02/24/25 - 04:00 (CET) Home Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Charlotte Hornets vs Sacramento Kings 02/24/25 - 04:00 (CET) Home Feed
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddh2new.iosplayer.ru/ddh2/premium16/mono.m3u8
+
+#EXTINF:-1 tvg-id="9f64eeed-5c9d-927d-84b8-71bb300568d2" tvg-name="NBA : Charlotte Hornets vs Sacramento Kings 02/24/25 - 04:00 (CET) Away Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Charlotte Hornets vs Sacramento Kings 02/24/25 - 04:00 (CET) Away Feed
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddh2new.iosplayer.ru/ddh2/premium17/mono.m3u8
 
 #EXTINF:-1 tvg-id="71299889-a01a-c992-7f9d-3e64c1a6423b" tvg-name="NBA : Charlotte Hornets vs Sacramento Kings 02/24/25 - 04:00 (CET) NBCS California" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Charlotte Hornets vs Sacramento Kings 02/24/25 - 04:00 (CET) NBCS California
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -3131,6 +3167,12 @@ https://ddh2new.iosplayer.ru/ddh2/premium34/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium589/mono.m3u8
 
+#EXTINF:-1 tvg-id="67884209-92ca-525a-6de5-93329364f3d0" tvg-name="England - Premier League : Wolverhampton Wanderers vs Fulham 02/25/25 - 20:30 (CET) Sky Sport 252 IT" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", England - Premier League : Wolverhampton Wanderers vs Fulham 02/25/25 - 20:30 (CET) Sky Sport 252 IT
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddh2new.iosplayer.ru/ddh2/premium17/mono.m3u8
+
 #EXTINF:-1 tvg-id="f758dce2-0556-daea-67b0-32831d7c0098" tvg-name="England - Premier League : Wolverhampton Wanderers vs Fulham 02/25/25 - 20:30 (CET) Canal+ Live 4 France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", England - Premier League : Wolverhampton Wanderers vs Fulham 02/25/25 - 20:30 (CET) Canal+ Live 4 France
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -3665,6 +3707,12 @@ https://windnew.iosplayer.ru/wind/premium129/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://ddh2new.iosplayer.ru/ddh2/premium927/mono.m3u8
 
+#EXTINF:-1 tvg-id="25637cc3-ca97-ebf5-55d5-96afa663d2cd" tvg-name="England - Premier League : Chelsea vs Southampton 02/25/25 - 21:15 (CET) Optus Sport" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", England - Premier League : Chelsea vs Southampton 02/25/25 - 21:15 (CET) Optus Sport
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddh2new.iosplayer.ru/ddh2/premium16/mono.m3u8
+
 #EXTINF:-1 tvg-id="eada79a3-4970-ed9a-09ce-3cfb2339ba19" tvg-name="England - Premier League : Chelsea vs Southampton 02/25/25 - 21:15 (CET) TNT Sports 1 UK" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", England - Premier League : Chelsea vs Southampton 02/25/25 - 21:15 (CET) TNT Sports 1 UK
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -4138,6 +4186,12 @@ https://zekonew.iosplayer.ru/zeko/premium38/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium588/mono.m3u8
+
+#EXTINF:-1 tvg-id="2c913a7c-a340-4f08-b341-91b8ed6522b4" tvg-name="ICC Champions Trophy : Australia vs South Africa 02/25/25 - 10:00 (CET) SuperSport Cricket" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", ICC Champions Trophy : Australia vs South Africa 02/25/25 - 10:00 (CET) SuperSport Cricket
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium368/mono.m3u8
 
 #EXTINF:-1 tvg-id="3967e60a-823d-d107-5c8a-c066cb2fafa3" tvg-name="ICC Champions Trophy : Australia vs South Africa 02/25/25 - 10:00 (CET) SuperSport Grandstand" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", ICC Champions Trophy : Australia vs South Africa 02/25/25 - 10:00 (CET) SuperSport Grandstand
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -4685,6 +4739,12 @@ https://windnew.iosplayer.ru/wind/premium753/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://ddh2new.iosplayer.ru/ddh2/premium15/mono.m3u8
 
+#EXTINF:-1 tvg-id="30d73df7-1c22-1cea-b355-56a5f2bd92f2" tvg-name="NBA : Dallas Mavericks vs Los Angeles Lakers 02/25/25 - 04:00 (CET) Away Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Dallas Mavericks vs Los Angeles Lakers 02/25/25 - 04:00 (CET) Away Feed
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddh2new.iosplayer.ru/ddh2/premium16/mono.m3u8
+
 #EXTINF:-1 tvg-id="6b352f85-504e-2687-70e7-e75604d9145e" tvg-name="NBA : Dallas Mavericks vs Los Angeles Lakers 02/25/25 - 04:00 (CET) TNT Sports 1 UK" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Dallas Mavericks vs Los Angeles Lakers 02/25/25 - 04:00 (CET) TNT Sports 1 UK
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -4954,6 +5014,12 @@ https://zekonew.iosplayer.ru/zeko/premium700/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://ddh2new.iosplayer.ru/ddh2/premium28/mono.m3u8
+
+#EXTINF:-1 tvg-id="df4e713e-f64e-3dfc-bfbe-ac7aefc59738" tvg-name="NHL : Toronto Maple Leafs vs Boston Bruins 02/25/25 - 01:00 (CET) Home Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NHL : Toronto Maple Leafs vs Boston Bruins 02/25/25 - 01:00 (CET) Home Feed
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddh2new.iosplayer.ru/ddh2/premium17/mono.m3u8
 
 #EXTINF:-1 tvg-id="0997623a-e072-3d96-4a1a-81f5ed10f004" tvg-name="NHL : Toronto Maple Leafs vs Boston Bruins 02/25/25 - 01:00 (CET) Away Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NHL : Toronto Maple Leafs vs Boston Bruins 02/25/25 - 01:00 (CET) Away Feed
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz

@@ -1103,6 +1103,12 @@ https://zekonew.iosplayer.ru/zeko/premium38/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium588/mono.m3u8
 
+#EXTINF:-1 tvg-id="7118e364-7709-7749-527e-ecfaa79ac9aa" tvg-name="ICC Champions Trophy : Bangladesh vs New Zealand 02/24/25 - 10:00 (CET) SuperSport Cricket" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", ICC Champions Trophy : Bangladesh vs New Zealand 02/24/25 - 10:00 (CET) SuperSport Cricket
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium368/mono.m3u8
+
 #EXTINF:-1 tvg-id="82dc4c8e-36b5-229a-acf5-e81e71316269" tvg-name="ICC Champions Trophy : Bangladesh vs New Zealand 02/24/25 - 10:00 (CET) SuperSport Grandstand" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", ICC Champions Trophy : Bangladesh vs New Zealand 02/24/25 - 10:00 (CET) SuperSport Grandstand
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
