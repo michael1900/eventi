@@ -4760,6 +4760,21 @@
                 "channels2": []
             },
             {
+                "time": "12:00",
+                "event": "Bosnia & Herzegovina Cup : HNK Kru\u0161evo vs FK \u017deljezni\u010dar",
+                "channels": [
+                    {
+                        "channel_name": "Arena Sport 3 Serbia",
+                        "channel_id": "431"
+                    },
+                    {
+                        "channel_name": "Arena Sport 3 Croatia",
+                        "channel_id": "434"
+                    }
+                ],
+                "channels2": []
+            },
+            {
                 "time": "13:30",
                 "event": "UEFA Women's Nations League : Israel vs Estonia",
                 "channels": [
@@ -4961,6 +4976,17 @@
             },
             {
                 "time": "17:00",
+                "event": "UEFA Women's Nations League : Serbia vs Belarus",
+                "channels": [
+                    {
+                        "channel_name": "Arena 3 Premium Serbia",
+                        "channel_id": "139"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "17:00",
                 "event": "Austria - 2. Liga : Voitsberg vs Bregenz",
                 "channels": [
                     {
@@ -4968,7 +4994,12 @@
                         "channel_id": "2"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-7520096",
+                        "channel_id": "7520096"
+                    }
+                ]
             },
             {
                 "time": "17:00",
@@ -5200,7 +5231,7 @@
                 "channels2": []
             },
             {
-                "time": "20:21",
+                "time": "01:20",
                 "event": "England National League Cup - 00:30 - Sutton United vs Manchester United U21",
                 "channels": [
                     {
@@ -5254,6 +5285,10 @@
                     {
                         "channel_name": "Sky Sport 8 NZ",
                         "channel_id": "595"
+                    },
+                    {
+                        "channel_name": "Arena 1 Premium Serbia",
+                        "channel_id": "134"
                     }
                 ],
                 "channels2": []
@@ -5297,6 +5332,10 @@
                     {
                         "channel_name": "Digi Sport 4 Romania",
                         "channel_id": "403"
+                    },
+                    {
+                        "channel_name": "Arena Sport 4 Serbia",
+                        "channel_id": "581"
                     },
                     {
                         "channel_name": "Prima Sport 3 Romania",
@@ -5356,6 +5395,10 @@
                     {
                         "channel_name": "Prima Sport 4 Romania",
                         "channel_id": "586"
+                    },
+                    {
+                        "channel_name": "Arena Sport 3 Serbia",
+                        "channel_id": "431"
                     },
                     {
                         "channel_name": "Nova Sports 2 Greece",
@@ -5419,6 +5462,10 @@
                     {
                         "channel_name": "Canal+ Sport360 France",
                         "channel_id": "464"
+                    },
+                    {
+                        "channel_name": "Arena Sport 2 Serbia",
+                        "channel_id": "430"
                     },
                     {
                         "channel_name": "Canal+ Live 2 France",
@@ -5668,6 +5715,10 @@
                         "channel_id": "47"
                     },
                     {
+                        "channel_name": "Arena Sport 1 Serbia",
+                        "channel_id": "429"
+                    },
+                    {
                         "channel_name": "Cytavision Sports 5 Cyprus",
                         "channel_id": "915"
                     },
@@ -5831,6 +5882,10 @@
                         "channel_id": "583"
                     },
                     {
+                        "channel_name": "Arena 3 Premium Serbia",
+                        "channel_id": "139"
+                    },
+                    {
                         "channel_name": "Cytavision Sports 3 Cyprus",
                         "channel_id": "913"
                     },
@@ -5930,6 +5985,10 @@
                         "channel_id": "127"
                     },
                     {
+                        "channel_name": "Arena 2 Premium Serbia",
+                        "channel_id": "135"
+                    },
+                    {
                         "channel_name": "Match! Football 2 Russia",
                         "channel_id": "137"
                     },
@@ -5962,7 +6021,12 @@
                         "channel_id": "142"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-7476436",
+                        "channel_id": "7476436"
+                    }
+                ]
             },
             {
                 "time": "21:10",
@@ -6000,7 +6064,12 @@
                         "channel_id": "143"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-7197340",
+                        "channel_id": "7197340"
+                    }
+                ]
             },
             {
                 "time": "22:00",
@@ -6049,7 +6118,12 @@
                         "channel_id": "140"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-7210733",
+                        "channel_id": "7210733"
+                    }
+                ]
             },
             {
                 "time": "00:30",
@@ -6100,7 +6174,12 @@
                         "channel_id": "143"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-7478037",
+                        "channel_id": "7478037"
+                    }
+                ]
             },
             {
                 "time": "00:30",
@@ -6479,10 +6558,10 @@
             },
             {
                 "time": "18:05",
-                "event": "MLB : New York Mets vs Houston Astros Space City",
+                "event": "MLB : New York Mets vs Houston Astros",
                 "channels": [
                     {
-                        "channel_name": "Home Network",
+                        "channel_name": "Space City Home Network",
                         "channel_id": "921"
                     },
                     {
@@ -6539,6 +6618,17 @@
             }
         ],
         "Basketball": [
+            {
+                "time": "19:30",
+                "event": "Italy - Serie A2 : Orzinuovi vs Pesaro",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7461089",
+                        "channel_id": "7461089"
+                    }
+                ]
+            },
             {
                 "time": "00:00",
                 "event": "NCAA : Cincinnati vs Baylor",
@@ -6954,7 +7044,12 @@
                         "channel_id": "144"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-7374699",
+                        "channel_id": "7374699"
+                    }
+                ]
             }
         ],
         "Futsal": [
@@ -7006,6 +7101,10 @@
                     {
                         "channel_name": "Arena Sport 2 Croatia",
                         "channel_id": "433"
+                    },
+                    {
+                        "channel_name": "Arena Sport 1 Serbia",
+                        "channel_id": "429"
                     },
                     {
                         "channel_name": "Digi Sport 3 Romania",
@@ -7139,6 +7238,10 @@
                     {
                         "channel_name": "Arena Sport 3 Croatia",
                         "channel_id": "434"
+                    },
+                    {
+                        "channel_name": "Arena Sport 3 Serbia",
+                        "channel_id": "431"
                     }
                 ],
                 "channels2": []
@@ -7252,6 +7355,39 @@
                     }
                 ],
                 "channels2": []
+            },
+            {
+                "time": "18:45",
+                "event": "Swiss - NLA : Fribourg Gotteron vs Biel Bienne",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7352470",
+                        "channel_id": "7352470"
+                    }
+                ]
+            },
+            {
+                "time": "18:45",
+                "event": "Swiss - NLA : Geneve Servette vs EV Zug",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7352471",
+                        "channel_id": "7352471"
+                    }
+                ]
+            },
+            {
+                "time": "18:45",
+                "event": "Swiss - NLA : ZSC Lions vs Davos",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7386016",
+                        "channel_id": "7386016"
+                    }
+                ]
             },
             {
                 "time": "00:00",
