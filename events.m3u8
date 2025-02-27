@@ -35,6 +35,12 @@ https://windnew.iosplayer.ru/wind/premium330/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium742/mono.m3u8
 
+#EXTINF:-1 tvg-id="b74d0fb1-32e7-0629-8fad-c1a606cb0fb3" tvg-name="FanDuel Racing Live 02/27/25 - 18:00 (CET) MASN USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", FanDuel Racing Live 02/27/25 - 18:00 (CET) MASN USA
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium829/mono.m3u8
+
 #EXTINF:-1 tvg-id="6b65a6a4-8b81-48f6-b38a-088ca65ed389" tvg-name="Bargain Mansions Season 5, Episode 3 02/27/25 - 20:00 (CET) HGTV USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Bargain Mansions Season 5, Episode 3 02/27/25 - 20:00 (CET) HGTV USA
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -46,6 +52,30 @@ https://zekonew.iosplayer.ru/zeko/premium382/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium767/mono.m3u8
+
+#EXTINF:-1 tvg-id="c241330b-01a9-e71f-de8a-774bcf36d58b" tvg-name="Pictionary Season 3, Episode 104 02/27/25 - 20:00 (CET) FOXNY USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Pictionary Season 3, Episode 104 02/27/25 - 20:00 (CET) FOXNY USA
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium768/mono.m3u8
+
+#EXTINF:-1 tvg-id="6c307511-b2b9-437a-28df-6ec4ce4a2bbd" tvg-name="The Kelly Clarkson Show Season 6, Episode 99 02/27/25 - 21:00 (CET) NBCNY USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", The Kelly Clarkson Show Season 6, Episode 99 02/27/25 - 21:00 (CET) NBCNY USA
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium769/mono.m3u8
+
+#EXTINF:-1 tvg-id="371ecd7b-27cd-8130-4722-9389571aa876" tvg-name="General Hospital Season 62, Episode 118 02/27/25 - 21:00 (CET) ABC NY USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", General Hospital Season 62, Episode 118 02/27/25 - 21:00 (CET) ABC NY USA
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium766/mono.m3u8
+
+#EXTINF:-1 tvg-id="1a2a73ed-562b-0f79-c374-59eef50bea63" tvg-name="Jeopardy! Season 41, Episode 124 02/27/25 - 01:00 (CET) ABC NY USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Jeopardy! Season 41, Episode 124 02/27/25 - 01:00 (CET) ABC NY USA
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium766/mono.m3u8
 
 #EXTINF:-1 tvg-id="5be6128e-18c2-6797-6142-ea7d17be3111" tvg-name="Teen Mom: The Next Chapter Season 2, Episode 20 02/27/25 - 02:00 (CET) MTV USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Teen Mom: The Next Chapter Season 2, Episode 20 02/27/25 - 02:00 (CET) MTV USA
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -83,6 +113,12 @@ https://ddy6new.iosplayer.ru/ddy6/premium299/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium382/mono.m3u8
 
+#EXTINF:-1 tvg-id="3139d32c-93cd-59bf-5c94-1cf0dc98d2c1" tvg-name="Papás por conveniencia Season 1, Episode 28 02/27/25 - 02:00 (CET) Univision USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Papás por conveniencia Season 1, Episode 28 02/27/25 - 02:00 (CET) Univision USA
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://windnew.iosplayer.ru/wind/premium132/mono.m3u8
+
 #EXTINF:-1 tvg-id="a9488d99-0bbb-2599-11ce-5dd2b45ed1f0" tvg-name="Police 24/7 Season 2, Episode 6 02/27/25 - 02:00 (CET) CW USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Police 24/7 Season 2, Episode 6 02/27/25 - 02:00 (CET) CW USA
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -94,6 +130,18 @@ https://zekonew.iosplayer.ru/zeko/premium300/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium280/mono.m3u8
+
+#EXTINF:-1 tvg-id="ddd1dfb2-3b98-2ef8-daf6-1a26146d3f31" tvg-name="Next Level Chef Season 4, Episode 3 02/27/25 - 02:00 (CET) FOXNY USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Next Level Chef Season 4, Episode 3 02/27/25 - 02:00 (CET) FOXNY USA
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium768/mono.m3u8
+
+#EXTINF:-1 tvg-id="7412b293-4729-4739-614f-f3d719db3ad0" tvg-name="Law &amp; Order Season 24, Episode 14 02/27/25 - 02:00 (CET) NBCNY USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Law &amp; Order Season 24, Episode 14 02/27/25 - 02:00 (CET) NBCNY USA
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium769/mono.m3u8
 
 #EXTINF:-1 tvg-id="29a3b2e9-5d65-a441-d588-42dea2bc372f" tvg-name="Georgie &amp; Mandy's First Marriage Season 1, Episode 12 02/27/25 - 02:00 (CET) CBSNY USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Georgie &amp; Mandy's First Marriage Season 1, Episode 12 02/27/25 - 02:00 (CET) CBSNY USA
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -113,11 +161,23 @@ https://zekonew.iosplayer.ru/zeko/premium302/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium767/mono.m3u8
 
+#EXTINF:-1 tvg-id="a28defe3-9bf0-0273-1247-6f57a5e5a5ab" tvg-name="Law &amp; Order: Special Victims Unit Season 26, Episode 14 02/27/25 - 03:00 (CET) NBCNY USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Law &amp; Order: Special Victims Unit Season 26, Episode 14 02/27/25 - 03:00 (CET) NBCNY USA
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium769/mono.m3u8
+
 #EXTINF:-1 tvg-id="3eabedcb-baa8-0dd4-88bd-64072bcfbe01" tvg-name="Matlock Season 1, Episode 13 02/27/25 - 03:00 (CET) CBSNY USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Matlock Season 1, Episode 13 02/27/25 - 03:00 (CET) CBSNY USA
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium767/mono.m3u8
+
+#EXTINF:-1 tvg-id="451b4cf3-6123-fdf7-7656-af7229d4beef" tvg-name="Animal Control Season 3, Episode 8 02/27/25 - 03:00 (CET) FOXNY USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Animal Control Season 3, Episode 8 02/27/25 - 03:00 (CET) FOXNY USA
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium768/mono.m3u8
 
 #EXTINF:-1 tvg-id="b02b61c4-a3d7-0628-ece6-6fa2fd5166e6" tvg-name="Crime Nation Season 2, Episode 6 02/27/25 - 03:00 (CET) CW USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Crime Nation Season 2, Episode 6 02/27/25 - 03:00 (CET) CW USA
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -167,6 +227,12 @@ https://zekonew.iosplayer.ru/zeko/premium328/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium321/mono.m3u8
 
+#EXTINF:-1 tvg-id="24933b83-7577-50a9-a491-f0b2ea1fca65" tvg-name="Going Dutch Season 1, Episode 8 02/27/25 - 03:30 (CET) FOXNY USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Going Dutch Season 1, Episode 8 02/27/25 - 03:30 (CET) FOXNY USA
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium768/mono.m3u8
+
 #EXTINF:-1 tvg-id="beb79919-3f22-faf8-23be-d01d43cf2fde" tvg-name="Swamp Mysteries Season 3, Episode 1 02/27/25 - 03:30 (CET) History USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Swamp Mysteries Season 3, Episode 1 02/27/25 - 03:30 (CET) History USA
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -202,6 +268,12 @@ https://zekonew.iosplayer.ru/zeko/premium301/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium767/mono.m3u8
+
+#EXTINF:-1 tvg-id="28f49481-a0a0-4dc4-2720-9bdf1c11f735" tvg-name="Found Season 2, Episode 14 02/27/25 - 04:00 (CET) NBCNY USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Found Season 2, Episode 14 02/27/25 - 04:00 (CET) NBCNY USA
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium769/mono.m3u8
 
 #EXTINF:-1 tvg-id="98ae4334-6c12-ace8-ae34-0454cac5b68c" tvg-name="Turkey - Turkish Cup : Gaziantep FK vs Fenerbahçe 02/27/25 - 14:00 (CET) A Spor Turkey" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Turkey - Turkish Cup : Gaziantep FK vs Fenerbahçe 02/27/25 - 14:00 (CET) A Spor Turkey
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -263,6 +335,12 @@ https://dokko1new.iosplayer.ru/dokko1/premium95/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium3/mono.m3u8
 
+#EXTINF:-1 tvg-id="81f76d1c-2dbc-2134-c30f-f46e8026695f" tvg-name="Jordan League : Al Ramtha vs Shabab Al Ordon 02/27/25 - 15:00 (CET) Jordan Sport" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Jordan League : Al Ramtha vs Shabab Al Ordon 02/27/25 - 15:00 (CET) Jordan Sport
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium4/mono.m3u8
+
 #EXTINF:-1 tvg-id="a013ac6e-deda-4e16-1b3d-bd5ce9a1fa6f" tvg-name="Qatar - Qatar Stars League : Al Rayyan vs Al Arabi 02/27/25 - 17:00 (CET) beIN Sports MENA 5" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Qatar - Qatar Stars League : Al Rayyan vs Al Arabi 02/27/25 - 17:00 (CET) beIN Sports MENA 5
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -317,6 +395,12 @@ https://zekonew.iosplayer.ru/zeko/premium143/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium1/mono.m3u8
 
+#EXTINF:-1 tvg-id="14296c07-f26b-4776-913e-4de2e0c53cb8" tvg-name="Jordan League : Al Ahli vs Al Faisaly 02/27/25 - 17:45 (CET) Jordan Sport" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Jordan League : Al Ahli vs Al Faisaly 02/27/25 - 17:45 (CET) Jordan Sport
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium4/mono.m3u8
+
 #EXTINF:-1 tvg-id="d0e6e660-7c69-dee1-bb5e-4bcf15ed6269" tvg-name="Egypt - Premier League : El Geish vs National Bank of Egypt 02/27/25 - 18:00 (CET) Ontime Sports Egypt" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Egypt - Premier League : El Geish vs National Bank of Egypt 02/27/25 - 18:00 (CET) Ontime Sports Egypt
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -347,12 +431,6 @@ https://ddy6new.iosplayer.ru/ddy6/premium135/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://windnew.iosplayer.ru/wind/premium134/mono.m3u8
 
-#EXTINF:-1 tvg-id="edcd465e-3638-6821-f6e0-7cc06c52c49f" tvg-name="Peru - Primera Division : Los Chankas vs Cienciano 02/27/25 - 19:00 (CET) Liga 1 Max Peru" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Peru - Primera Division : Los Chankas vs Cienciano 02/27/25 - 19:00 (CET) Liga 1 Max Peru
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://nfsnew.iosplayer.ru/nfs/premium6/mono.m3u8
-
 #EXTINF:-1 tvg-id="b09b2a5c-badc-c32a-c159-0f538a0f4efb" tvg-name="Denmark - 1st Division : Hvidovre vs Fredericia 02/27/25 - 19:00 (CET) TV3 Sport Denmark" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Denmark - 1st Division : Hvidovre vs Fredericia 02/27/25 - 19:00 (CET) TV3 Sport Denmark
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -382,6 +460,12 @@ https://ddy6new.iosplayer.ru/ddy6/premium55/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium379/mono.m3u8
+
+#EXTINF:-1 tvg-id="8dcdcd03-969b-6662-0562-8059568cc69b" tvg-name="Netherlands - KNVB Beker : Heracles vs AZ 02/27/25 - 20:00 (CET) GOLTV USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Netherlands - KNVB Beker : Heracles vs AZ 02/27/25 - 20:00 (CET) GOLTV USA
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium597/mono.m3u8
 
 #EXTINF:-1 tvg-id="01d74256-3860-2ab6-96a4-02f23ae8cc93" tvg-name="Netherlands - KNVB Beker : Heracles vs AZ 02/27/25 - 20:00 (CET) Sportdigital FUSSBALL DE" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Netherlands - KNVB Beker : Heracles vs AZ 02/27/25 - 20:00 (CET) Sportdigital FUSSBALL DE
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -706,12 +790,6 @@ https://dokko1new.iosplayer.ru/dokko1/premium92/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium90/mono.m3u8
-
-#EXTINF:-1 tvg-id="e3c43657-1d8c-bbac-43b4-09ef2260e70f" tvg-name="Peru - Primera Division : ADT vs Sport Boys 02/27/25 - 21:30 (CET) Liga 1 Max Peru" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Peru - Primera Division : ADT vs Sport Boys 02/27/25 - 21:30 (CET) Liga 1 Max Peru
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://nfsnew.iosplayer.ru/nfs/premium6/mono.m3u8
 
 #EXTINF:-1 tvg-id="27cb6f2a-8da0-1097-be0f-051b1b66b5a9" tvg-name="Portugal - Taça de Portugal : Gil Vicente vs Sporting CP 02/27/25 - 21:45 (CET) Sport TV1 Portugal" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Portugal - Taça de Portugal : Gil Vicente vs Sporting CP 02/27/25 - 21:45 (CET) Sport TV1 Portugal
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -1259,6 +1337,12 @@ https://zekonew.iosplayer.ru/zeko/premium318/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium528/mono.m3u8
 
+#EXTINF:-1 tvg-id="cc530e36-addc-3e13-ab3b-4d37560c95ee" tvg-name="LPGA Tour HSBC Womens World Championship Day-1 02/27/25 - 02:30 (CET) SuperSport Golf" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", LPGA Tour HSBC Womens World Championship Day-1 02/27/25 - 02:30 (CET) SuperSport Golf
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium422/mono.m3u8
+
 #EXTINF:-1 tvg-id="d72b6108-2a40-5f12-b963-f37f67814c1f" tvg-name="LPGA Tour HSBC Womens World Championship Day-1 02/27/25 - 02:30 (CET) Sky Sports Main Event" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", LPGA Tour HSBC Womens World Championship Day-1 02/27/25 - 02:30 (CET) Sky Sports Main Event
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1282,6 +1366,12 @@ https://zekonew.iosplayer.ru/zeko/premium318/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium528/mono.m3u8
+
+#EXTINF:-1 tvg-id="6db99102-a48b-3dbe-157d-94a106f028ff" tvg-name="DP World Tour Investec South African Open Championship Day-1 02/27/25 - 11:00 (CET) SuperSport Golf" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", DP World Tour Investec South African Open Championship Day-1 02/27/25 - 11:00 (CET) SuperSport Golf
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium422/mono.m3u8
 
 #EXTINF:-1 tvg-id="2e85cb21-7631-de9d-dde9-f86322bd3388" tvg-name="DP World Tour Investec South African Open Championship Day-1 02/27/25 - 11:00 (CET) Sky Sports Main Event" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", DP World Tour Investec South African Open Championship Day-1 02/27/25 - 11:00 (CET) Sky Sports Main Event
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -1312,6 +1402,12 @@ https://zekonew.iosplayer.ru/zeko/premium318/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium528/mono.m3u8
+
+#EXTINF:-1 tvg-id="78660765-14f7-ce8d-d5bc-b8d04094dded" tvg-name="PGA Tour Cognizant Classic In The Palm Beaches Day-1 02/27/25 - 16:00 (CET) SuperSport Golf" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", PGA Tour Cognizant Classic In The Palm Beaches Day-1 02/27/25 - 16:00 (CET) SuperSport Golf
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium422/mono.m3u8
 
 #EXTINF:-1 tvg-id="0d557b61-8a17-5dfe-bfc0-0dc804f64d86" tvg-name="PGA Tour Cognizant Classic In The Palm Beaches Day-1 02/27/25 - 16:00 (CET) Sky Sport 1 NZ" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", PGA Tour Cognizant Classic In The Palm Beaches Day-1 02/27/25 - 16:00 (CET) Sky Sport 1 NZ
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -1510,6 +1606,12 @@ https://ddy6new.iosplayer.ru/ddy6/premium770/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://windnew.iosplayer.ru/wind/premium399/mono.m3u8
+
+#EXTINF:-1 tvg-id="c01f36bf-3e6d-d58b-7367-c28de1b294de" tvg-name="MLB : Cleveland Guardians vs Chicago White Sox 02/27/25 - 21:05 (CET) Chicago Sports Network" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", MLB : Cleveland Guardians vs Chicago White Sox 02/27/25 - 21:05 (CET) Chicago Sports Network
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://windnew.iosplayer.ru/wind/premium776/mono.m3u8
 
 #EXTINF:-1 tvg-id="ab0e664e-9c3e-b2d5-91e1-aa9676f72255" tvg-name="MLB : Los Angeles Dodgers vs Colorado Rockies 02/27/25 - 21:10 (CET) Spectrum Sportsnet LA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", MLB : Los Angeles Dodgers vs Colorado Rockies 02/27/25 - 21:10 (CET) Spectrum Sportsnet LA
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -1745,6 +1847,12 @@ https://zekonew.iosplayer.ru/zeko/premium759/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium762/mono.m3u8
 
+#EXTINF:-1 tvg-id="c342bd2b-f295-456e-1967-5f06bd767e35" tvg-name="Women's College Basketball : Missouri State vs Murray State 02/27/25 - 01:00 (CET) Chicago Sports Network" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Women's College Basketball : Missouri State vs Murray State 02/27/25 - 01:00 (CET) Chicago Sports Network
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://windnew.iosplayer.ru/wind/premium776/mono.m3u8
+
 #EXTINF:-1 tvg-id="43bfd931-3605-bf54-a021-c0ca3531968d" tvg-name="Women's College Basketball : Creighton vs Connecticut 02/27/25 - 01:00 (CET) CBS Sports Network USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Women's College Basketball : Creighton vs Connecticut 02/27/25 - 01:00 (CET) CBS Sports Network USA
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1942,6 +2050,12 @@ https://nfsnew.iosplayer.ru/nfs/premium27/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium28/mono.m3u8
+
+#EXTINF:-1 tvg-id="668409e3-f1f8-343e-a99f-131849c8a43f" tvg-name="NBA : Golden State Warriors vs Orlando Magic 02/27/25 - 01:00 (CET) NBCS Bay Area USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Golden State Warriors vs Orlando Magic 02/27/25 - 01:00 (CET) NBCS Bay Area USA
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://windnew.iosplayer.ru/wind/premium753/mono.m3u8
 
 #EXTINF:-1 tvg-id="0964fbbf-8cd3-21b0-c2b0-1cfdd045dd1c" tvg-name="NBA : Denver Nuggets vs Milwaukee Bucks 02/27/25 - 02:00 (CET) Home Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Denver Nuggets vs Milwaukee Bucks 02/27/25 - 02:00 (CET) Home Feed
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -2680,6 +2794,12 @@ https://windnew.iosplayer.ru/wind/premium260/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium833/mono.m3u8
+
+#EXTINF:-1 tvg-id="46a02a9b-65ec-7acd-0f80-35f55bd20c98" tvg-name="NHL : San Jose Sharks vs Montreal Canadiens 02/27/25 - 01:00 (CET) Home Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NHL : San Jose Sharks vs Montreal Canadiens 02/27/25 - 01:00 (CET) Home Feed
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium4/mono.m3u8
 
 #EXTINF:-1 tvg-id="f2f25eef-1f45-dbfd-f7dc-67e030974b2b" tvg-name="NHL : San Jose Sharks vs Montreal Canadiens 02/27/25 - 01:00 (CET) Away Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NHL : San Jose Sharks vs Montreal Canadiens 02/27/25 - 01:00 (CET) Away Feed
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
