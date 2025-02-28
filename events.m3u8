@@ -3773,6 +3773,12 @@ https://nfsnew.iosplayer.ru/nfs/premium23/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium18/mono.m3u8
 
+#EXTINF:-1 tvg-id="f7315749-4f39-49a8-3d3a-258288b4f474" tvg-name="Slovakia Extraliga : HC 05 Banska Bystrica vs. HKM Zvolen 02/28/25 - 17:30 (CET) JOJ Sport Slovakia HD" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Slovakia Extraliga : HC 05 Banska Bystrica vs. HKM Zvolen 02/28/25 - 17:30 (CET) JOJ Sport Slovakia HD
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://windnew.iosplayer.ru/wind/premium161/mono.m3u8
+
 #EXTINF:-1 tvg-id="e76adca9-7811-6802-c8cc-7cfecf01f944" tvg-name="HockeyAllsvenskan : Vasteras vs Mora 02/28/25 - 18:00 (CET) TV4 Sport Live 1" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", HockeyAllsvenskan : Vasteras vs Mora 02/28/25 - 18:00 (CET) TV4 Sport Live 1
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
