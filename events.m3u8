@@ -1,3 +1,40 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="bdd640fb-0667-1ad1-1c80-317fa3b1799d" tvg-name="Arnold Sports Classic 1 02/28/25 - 14:00 (CET) Event PPV 1" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Arnold Sports Classic 1 02/28/25 - 14:00 (CET) Event PPV 1
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://windnew.iosplayer.ru/wind/premium169/mono.m3u8
+
+#EXTINF:-1 tvg-id="23b8c1e9-3924-56de-3eb1-3b9046685257" tvg-name="Arnold Sports Classic 2 02/28/25 - 14:00 (CET) Event PPV 2" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Arnold Sports Classic 2 02/28/25 - 14:00 (CET) Event PPV 2
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium170/mono.m3u8
+
+#EXTINF:-1 tvg-id="bd9c66b3-ad3c-2d6d-1a3d-1fa7bc8960a9" tvg-name="Arnold Sports Classic 3 02/28/25 - 14:00 (CET) Event PPV 3" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Arnold Sports Classic 3 02/28/25 - 14:00 (CET) Event PPV 3
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://windnew.iosplayer.ru/wind/premium171/mono.m3u8
+
+#EXTINF:-1 tvg-id="972a8469-1641-9f82-8b9d-2434e465e150" tvg-name="Arnold Sports Classic 4 02/28/25 - 14:00 (CET) Event PPV 4" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Arnold Sports Classic 4 02/28/25 - 14:00 (CET) Event PPV 4
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium172/mono.m3u8
+
+#EXTINF:-1 tvg-id="b74d0fb1-32e7-0629-8fad-c1a606cb0fb3" tvg-name="2025 World Series of Pro Mod at Bradenton Motorsports Park 02/28/25 - 16:00 (CET) Floracing" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", 2025 World Series of Pro Mod at Bradenton Motorsports Park 02/28/25 - 16:00 (CET) Floracing
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://windnew.iosplayer.ru/wind/premium175/mono.m3u8
+
+#EXTINF:-1 tvg-id="6b65a6a4-8b81-48f6-b38a-088ca65ed389" tvg-name="Porsche Sprint Challenge 02/28/25 - 17:30 (CET) Event PPV" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Porsche Sprint Challenge 02/28/25 - 17:30 (CET) Event PPV
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://windnew.iosplayer.ru/wind/premium176/mono.m3u8
+
 #EXTINF:-1 tvg-id="47378190-96da-1dac-72ff-5d2a386ecbe0" tvg-name="Science Now Episode 4 02/28/25 - 14:00 (CET) MY9TV USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Science Now Episode 4 02/28/25 - 14:00 (CET) MY9TV USA
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -3022,6 +3059,12 @@ https://ddy6new.iosplayer.ru/ddy6/premium432/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://windnew.iosplayer.ru/wind/premium68/mono.m3u8
 
+#EXTINF:-1 tvg-id="692ac139-1f4a-8ca1-ab85-fd595463adc7" tvg-name="BBL : Ulm vs Basketball Braunschweig 02/28/25 - 19:45 (CET) Sport Klub 9 Serbia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", BBL : Ulm vs Basketball Braunschweig 02/28/25 - 19:45 (CET) Sport Klub 9 Serbia
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium160/mono.m3u8
+
 #EXTINF:-1 tvg-id="f0ede303-aa53-c19c-dfa4-bb9f5a856750" tvg-name="Serbian Cup W Semi finals 2 02/28/25 - 20:00 (CET) Arena Sport 2 Serbia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Serbian Cup W Semi finals 2 02/28/25 - 20:00 (CET) Arena Sport 2 Serbia
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -3808,6 +3851,12 @@ https://zekonew.iosplayer.ru/zeko/premium700/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium704/mono.m3u8
 
+#EXTINF:-1 tvg-id="e916da57-f248-23ab-177a-8a5f6ffe33b3" tvg-name="DEL : Konferenz 02/28/25 - 19:30 (CET) Magenta Sport 302" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", DEL : Konferenz 02/28/25 - 19:30 (CET) Magenta Sport 302
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://windnew.iosplayer.ru/wind/premium163/mono.m3u8
+
 #EXTINF:-1 tvg-id="e27718c5-737d-1fb6-d113-76e038d77b9a" tvg-name="DEL : EHC Red Bull München vs Eisbären Berlin 02/28/25 - 19:30 (CET) Magenta Sport 303" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", DEL : EHC Red Bull München vs Eisbären Berlin 02/28/25 - 19:30 (CET) Magenta Sport 303
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -4293,6 +4342,12 @@ https://windnew.iosplayer.ru/wind/premium473/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://windnew.iosplayer.ru/wind/premium581/mono.m3u8
+
+#EXTINF:-1 tvg-id="22bf18f5-1f65-2a87-333e-e3447dbf4bc1" tvg-name="1. DOL Women : Branik Maribor W vs SIP Sempeter W 02/28/25 - 20:00 (CET) Sportklub 10 Serbia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", 1. DOL Women : Branik Maribor W vs SIP Sempeter W 02/28/25 - 20:00 (CET) Sportklub 10 Serbia
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://windnew.iosplayer.ru/wind/premium162/mono.m3u8
 
 #EXTINF:-1 tvg-id="2c33350c-73b9-11d8-12f5-131ada52d2ee" tvg-name="PlusLiga : MKS Slepsk Suwalki vs. Barkom-Kazhany Lviv 02/28/25 - 20:30 (CET) Polsat Sport 1 Poland" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", PlusLiga : MKS Slepsk Suwalki vs. Barkom-Kazhany Lviv 02/28/25 - 20:30 (CET) Polsat Sport 1 Poland
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
