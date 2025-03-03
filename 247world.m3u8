@@ -15,13 +15,13 @@ https://zekonew.iosplayer.ru/zeko/premium302/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium303/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium303/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Animal Planet
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium304/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium304/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="ACC Network USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", ACC Network USA
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -143,6 +143,12 @@ https://dokko1new.iosplayer.ru/dokko1/premium783/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium784/mono.m3u8
 
+#EXTINF:-1 tvg-id="unknown" tvg-name="ABS-CBN" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", ABS-CBN
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium785/mono.m3u8
+
 #EXTINF:-1 tvg-id="unknown" tvg-name="Arena Sport 1 BiH" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Arena Sport 1 BiH
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -213,13 +219,13 @@ https://ddy6new.iosplayer.ru/ddy6/premium725/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium742/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium742/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="ABCNY USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", ABCNY USA
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium766/mono.m3u8
+https://zekonew.iosplayer.ru/zeko/premium766/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="beIN Sports MENA English 1" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", beIN Sports MENA English 1
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -353,6 +359,12 @@ https://zekonew.iosplayer.ru/zeko/premium116/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium117/mono.m3u8
 
+#EXTINF:-1 tvg-id="unknown" tvg-name="beIN SPORTS 3 France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", beIN SPORTS 3 France
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium118/mono.m3u8
+
 #EXTINF:-1 tvg-id="unknown" tvg-name="beIN SPORTS 1 Turkey" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", beIN SPORTS 1 Turkey
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -401,6 +413,12 @@ https://zekonew.iosplayer.ru/zeko/premium372/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium491/mono.m3u8
 
+#EXTINF:-1 tvg-id="unknown" tvg-name="beIN SPORTS Australia 2" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", beIN SPORTS Australia 2
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium492/mono.m3u8
+
 #EXTINF:-1 tvg-id="unknown" tvg-name="beIN SPORTS Australia 3" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", beIN SPORTS Australia 3
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -418,6 +436,12 @@ https://windnew.iosplayer.ru/wind/premium522/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium380/mono.m3u8
+
+#EXTINF:-1 tvg-id="unknown" tvg-name="Boomerang" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Boomerang
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium648/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="BNT 1 Bulgaria" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", BNT 1 Bulgaria
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -471,7 +495,7 @@ https://zekonew.iosplayer.ru/zeko/premium306/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium307/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium307/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="BBC News Channel HD" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", BBC News Channel HD
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -611,6 +635,12 @@ https://ddy6new.iosplayer.ru/ddy6/premium486/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium487/mono.m3u8
 
+#EXTINF:-1 tvg-id="unknown" tvg-name="Canal+ Sport 3 Afrique" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Canal+ Sport 3 Afrique
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium488/mono.m3u8
+
 #EXTINF:-1 tvg-id="unknown" tvg-name="Canal+ Sport 4 Afrique" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Canal+ Sport 4 Afrique
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -639,7 +669,7 @@ https://windnew.iosplayer.ru/wind/premium89/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium747/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium747/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Cosmote Sport 1 HD" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Cosmote Sport 1 HD
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -735,7 +765,7 @@ https://dokko1new.iosplayer.ru/dokko1/premium813/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium814/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium814/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="COZI TV USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", COZI TV USA
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -753,7 +783,7 @@ https://dokko1new.iosplayer.ru/dokko1/premium647/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium52/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium52/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="CW USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", CW USA
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -771,19 +801,19 @@ https://zekonew.iosplayer.ru/zeko/premium309/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium310/mono.m3u8
+https://zekonew.iosplayer.ru/zeko/premium310/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Cartoon Network
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium339/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium339/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="CNN USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", CNN USA
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium345/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium345/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Cinemax USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Cinemax USA
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -795,13 +825,13 @@ https://zekonew.iosplayer.ru/zeko/premium374/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium602/mono.m3u8
+https://zekonew.iosplayer.ru/zeko/premium602/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="CTV 2 Canada" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", CTV 2 Canada
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium838/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium838/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Crime+ Investigation USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Crime+ Investigation USA
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -813,7 +843,7 @@ https://dokko1new.iosplayer.ru/dokko1/premium669/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium696/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium696/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Cooking Channel USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Cooking Channel USA
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -915,25 +945,25 @@ https://dokko1new.iosplayer.ru/dokko1/premium802/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://top2new.iosplayer.ru/top2/premium400/mono.m3u8
+https://wikinew.iosplayer.ru/wiki/premium400/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Digi Sport 2 Romania" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Digi Sport 2 Romania
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://top2new.iosplayer.ru/top2/premium401/mono.m3u8
+https://wikinew.iosplayer.ru/wiki/premium401/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Digi Sport 3 Romania" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Digi Sport 3 Romania
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://top2new.iosplayer.ru/top2/premium402/mono.m3u8
+https://wikinew.iosplayer.ru/wiki/premium402/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Digi Sport 4 Romania" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Digi Sport 4 Romania
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://top2new.iosplayer.ru/top2/premium403/mono.m3u8
+https://wikinew.iosplayer.ru/wiki/premium403/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Diema Sport Bulgaria" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Diema Sport Bulgaria
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -1047,7 +1077,7 @@ https://dokko1new.iosplayer.ru/dokko1/premium651/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium652/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium652/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Dave" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Dave
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -1059,7 +1089,7 @@ https://dokko1new.iosplayer.ru/dokko1/premium348/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium44/mono.m3u8
+https://zekonew.iosplayer.ru/zeko/premium44/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="ESPN2 USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", ESPN2 USA
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -1239,13 +1269,13 @@ https://windnew.iosplayer.ru/wind/premium150/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium375/mono.m3u8
+https://zekonew.iosplayer.ru/zeko/premium375/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="ESPNews" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", ESPNews
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium288/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium288/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="E! Entertainment Television" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", E! Entertainment Television
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -1329,7 +1359,7 @@ https://windnew.iosplayer.ru/wind/premium825/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://zekonew.iosplayer.ru/zeko/premium767/mono.m3u8
+https://windnew.iosplayer.ru/wind/premium787/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Fox Sports 2 Argentina" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Fox Sports 2 Argentina
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -1359,7 +1389,7 @@ https://dokko1new.iosplayer.ru/dokko1/premium568/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium757/mono.m3u8
+https://zekonew.iosplayer.ru/zeko/premium757/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Fox Business" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Fox Business
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -1443,7 +1473,7 @@ https://zekonew.iosplayer.ru/zeko/premium768/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium775/mono.m3u8
+https://zekonew.iosplayer.ru/zeko/premium775/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="GOL PLAY Spain" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", GOL PLAY Spain
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -1455,13 +1485,13 @@ https://dokko1new.iosplayer.ru/dokko1/premium530/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium318/mono.m3u8
+https://zekonew.iosplayer.ru/zeko/premium318/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Game Show Network" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Game Show Network
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium319/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium319/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Gol Mundial 1" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Gol Mundial 1
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -1479,13 +1509,19 @@ https://ddy6new.iosplayer.ru/ddy6/premium687/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium743/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium743/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="CBC CA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", CBC CA
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium699/mono.m3u8
+https://zekonew.iosplayer.ru/zeko/premium699/mono.m3u8
+
+#EXTINF:-1 tvg-id="unknown" tvg-name="Grit Channel" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Grit Channel
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium752/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Globo SP" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Globo SP
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -1521,13 +1557,13 @@ https://ddy6new.iosplayer.ru/ddy6/premium296/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium321/mono.m3u8
+https://zekonew.iosplayer.ru/zeko/premium321/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="HBO2 USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", HBO2 USA
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium689/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium689/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="HBO Comedy USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", HBO Comedy USA
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -1569,7 +1605,7 @@ https://windnew.iosplayer.ru/wind/premium569/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium322/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium322/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Headline News" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Headline News
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -1594,6 +1630,12 @@ https://ddy6new.iosplayer.ru/ddy6/premium553/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium740/mono.m3u8
+
+#EXTINF:-1 tvg-id="unknown" tvg-name="ITV 1 UK" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", ITV 1 UK
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium350/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="ITV 2 UK" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", ITV 2 UK
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -1635,7 +1677,7 @@ https://windnew.iosplayer.ru/wind/premium325/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium656/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium656/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Kanal 4 Denmark" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Kanal 4 Denmark
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -1689,13 +1731,13 @@ https://windnew.iosplayer.ru/wind/premium326/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium389/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium389/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Longhorn Network USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Longhorn Network USA
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium667/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium667/mono.m3u8
 
 #EXTINF:-1 tvg-id="la7.it" tvg-name="La7 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Intrattenimento", La7 
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -1815,7 +1857,7 @@ https://zekonew.iosplayer.ru/zeko/premium367/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium371/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium371/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="MUTV UK" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", MUTV UK
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -1881,7 +1923,7 @@ https://windnew.iosplayer.ru/wind/premium399/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium829/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium829/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="MY9TV USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", MY9TV USA
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -2001,7 +2043,7 @@ https://dokko1new.iosplayer.ru/dokko1/premium639/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium762/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium762/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="NBC USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", NBC USA
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -2015,11 +2057,17 @@ https://windnew.iosplayer.ru/wind/premium53/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium404/mono.m3u8
 
+#EXTINF:-1 tvg-id="unknown" tvg-name="NBC Sports Chicago" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", NBC Sports Chicago
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://windnew.iosplayer.ru/wind/premium776/mono.m3u8
+
 #EXTINF:-1 tvg-id="unknown" tvg-name="NBC Sports Philadelphia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", NBC Sports Philadelphia
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium777/mono.m3u8
+https://zekonew.iosplayer.ru/zeko/premium777/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="NBC Sports Washington" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", NBC Sports Washington
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -2201,6 +2249,12 @@ https://windnew.iosplayer.ru/wind/premium50/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://windnew.iosplayer.ru/wind/premium129/mono.m3u8
 
+#EXTINF:-1 tvg-id="unknown" tvg-name="Polsat News Poland" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Polsat News Poland
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://windnew.iosplayer.ru/wind/premium443/mono.m3u8
+
 #EXTINF:-1 tvg-id="unknown" tvg-name="Polsat Film Poland" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Polsat Film Poland
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -2235,7 +2289,7 @@ https://windnew.iosplayer.ru/wind/premium88/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://top2new.iosplayer.ru/top2/premium583/mono.m3u8
+https://wikinew.iosplayer.ru/wiki/premium583/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Prima Sport 2" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Prima Sport 2
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -2247,13 +2301,13 @@ https://wikinew.iosplayer.ru/wiki/premium584/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://top2new.iosplayer.ru/top2/premium585/mono.m3u8
+https://wikinew.iosplayer.ru/wiki/premium585/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Prima Sport 4" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Prima Sport 4
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://top2new.iosplayer.ru/top2/premium586/mono.m3u8
+https://wikinew.iosplayer.ru/wiki/premium586/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Paramount Network" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Paramount Network
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -2278,6 +2332,12 @@ https://zekonew.iosplayer.ru/zeko/premium364/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium365/mono.m3u8
+
+#EXTINF:-1 tvg-id="unknown" tvg-name="RMC Sport 1 France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", RMC Sport 1 France
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium119/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="RMC Sport 2 France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", RMC Sport 2 France
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -2397,7 +2457,7 @@ https://zekonew.iosplayer.ru/zeko/premium36/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium37/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium37/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Sky Sports Main Event" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Sky Sports Main Event
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -2439,7 +2499,7 @@ https://ddy6new.iosplayer.ru/ddy6/premium574/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium575/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium575/mono.m3u8
 
 #EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="Sky Sport Tennis " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport", Sky Sport Tennis 
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -2451,7 +2511,7 @@ https://ddy6new.iosplayer.ru/ddy6/premium576/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium577/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium577/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Sky Sports News UK" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Sky Sports News UK
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -2747,6 +2807,12 @@ https://ddy6new.iosplayer.ru/ddy6/premium415/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium416/mono.m3u8
 
+#EXTINF:-1 tvg-id="unknown" tvg-name="SuperSport Variety 2" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", SuperSport Variety 2
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://windnew.iosplayer.ru/wind/premium417/mono.m3u8
+
 #EXTINF:-1 tvg-id="unknown" tvg-name="SuperSport Variety 3" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", SuperSport Variety 3
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -2777,11 +2843,11 @@ https://zekonew.iosplayer.ru/zeko/premium421/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium422/mono.m3u8
 
-#EXTINF:-1 tvg-id="unknown" tvg-name="SuperSport Tennis" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", SuperSport Tennis
+#EXTINF:-1 tvg-id="unknown" tvg-name="SuperSport Motorsport" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", SuperSport Motorsport
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://zekonew.iosplayer.ru/zeko/premium423/mono.m3u8
+https://zekonew.iosplayer.ru/zeko/premium424/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Supersport Football" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Supersport Football
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -2817,7 +2883,7 @@ https://dokko1new.iosplayer.ru/dokko1/premium571/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium764/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium764/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Sport1+ Germany" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Sport1+ Germany
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -3015,7 +3081,7 @@ https://windnew.iosplayer.ru/wind/premium876/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium877/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium877/mono.m3u8
 
 #EXTINF:-1 tvg-id="skyserie.it" tvg-name="Sky Serie " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film & Serie TV", Sky Serie 
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -3177,7 +3243,7 @@ https://ddy6new.iosplayer.ru/ddy6/premium148/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium294/mono.m3u8
+https://zekonew.iosplayer.ru/zeko/premium294/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Showtime USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Showtime USA
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -3219,7 +3285,7 @@ https://ddy6new.iosplayer.ru/ddy6/premium362/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium373/mono.m3u8
+https://zekonew.iosplayer.ru/zeko/premium373/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Sundance TV" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Sundance TV
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -3249,31 +3315,31 @@ https://ddy6new.iosplayer.ru/ddy6/premium739/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://dokko1new.iosplayer.ru/dokko1/premium601/mono.m3u8
+https://dokko1new.iosplayer.ru/dokko1/premium603/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="TNT Sports 1 UK" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", TNT Sports 1 UK
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium31/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium31/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="TNT Sports 2 UK" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", TNT Sports 2 UK
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium32/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium32/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="TNT Sports 3 UK" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", TNT Sports 3 UK
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium33/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium33/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="TNT Sports 4 UK" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", TNT Sports 4 UK
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium34/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium34/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="TSN1" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", TSN1
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -3471,7 +3537,7 @@ https://ddy6new.iosplayer.ru/ddy6/premium342/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium644/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium644/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="TMC Channel USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", TMC Channel USA
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -3489,7 +3555,7 @@ https://zekonew.iosplayer.ru/zeko/premium384/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium394/mono.m3u8
+https://zekonew.iosplayer.ru/zeko/premium394/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="TVP INFO" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", TVP INFO
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -3561,49 +3627,49 @@ https://dokko1new.iosplayer.ru/dokko1/premium842/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium700/mono.m3u8
+https://zekonew.iosplayer.ru/zeko/premium700/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Tennis+ 2" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Tennis+ 2
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium701/mono.m3u8
+https://zekonew.iosplayer.ru/zeko/premium701/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Tennis+ 3" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Tennis+ 3
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium702/mono.m3u8
+https://zekonew.iosplayer.ru/zeko/premium702/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Tennis+ 4" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Tennis+ 4
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium703/mono.m3u8
+https://zekonew.iosplayer.ru/zeko/premium703/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Tennis+ 5" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Tennis+ 5
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium704/mono.m3u8
+https://zekonew.iosplayer.ru/zeko/premium704/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Tennis+ 6" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Tennis+ 6
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium705/mono.m3u8
+https://zekonew.iosplayer.ru/zeko/premium705/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Tennis+ 7" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Tennis+ 7
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium706/mono.m3u8
+https://zekonew.iosplayer.ru/zeko/premium706/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Tennis+ " tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Tennis+ 
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium707/mono.m3u8
+https://zekonew.iosplayer.ru/zeko/premium707/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Tennis+ 15" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Tennis+ 15
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -3615,7 +3681,7 @@ https://top2new.iosplayer.ru/top2/premium714/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium343/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium343/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Universal Kids USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Universal Kids USA
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -3633,7 +3699,7 @@ https://windnew.iosplayer.ru/wind/premium132/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium133/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium133/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Viaplay Sports 1 UK" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Viaplay Sports 1 UK
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -3651,7 +3717,7 @@ https://windnew.iosplayer.ru/wind/premium550/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium597/mono.m3u8
+https://zekonew.iosplayer.ru/zeko/premium597/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="#Vamos Spain" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", #Vamos Spain
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -3669,13 +3735,13 @@ https://dokko1new.iosplayer.ru/dokko1/premium815/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium816/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium816/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="VH1 USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", VH1 USA
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium344/mono.m3u8
+https://zekonew.iosplayer.ru/zeko/premium344/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Veronica NL Netherland" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Veronica NL Netherland
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -3917,23 +3983,11 @@ https://ddy6new.iosplayer.ru/ddy6/premium514/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium515/mono.m3u8
 
-#EXTINF:-1 tvg-id="unknown" tvg-name="1+ (Player-16)" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", 1+ (Player-16)
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddy6new.iosplayer.ru/ddy6/premium516/mono.m3u8
-
 #EXTINF:-1 tvg-id="unknown" tvg-name="1+ (Player-17)" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", 1+ (Player-17)
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium517/mono.m3u8
-
-#EXTINF:-1 tvg-id="unknown" tvg-name="1+ (Player-1)" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", 1+ (Player-1)
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddy6new.iosplayer.ru/ddy6/premium518/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="1+ (Player-19)" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", 1+ (Player-19)
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -3951,7 +4005,7 @@ https://ddy6new.iosplayer.ru/ddy6/premium520/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium923/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium923/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Azteca 7 MX" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Azteca 7 MX
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -3999,25 +4053,25 @@ https://zekonew.iosplayer.ru/zeko/premium372/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium891/mono.m3u8
+https://zekonew.iosplayer.ru/zeko/premium891/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Bally Sports Florida" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Bally Sports Florida
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium892/mono.m3u8
+https://zekonew.iosplayer.ru/zeko/premium892/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Bally Sports Great Lakes" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Bally Sports Great Lakes
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium893/mono.m3u8
+https://zekonew.iosplayer.ru/zeko/premium893/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Bally Sports Indiana" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Bally Sports Indiana
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium894/mono.m3u8
+https://zekonew.iosplayer.ru/zeko/premium894/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Bally Sports Midwest" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Bally Sports Midwest
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -4035,7 +4089,7 @@ https://zekonew.iosplayer.ru/zeko/premium898/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium899/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium899/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Bally Sports Oklahoma" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Bally Sports Oklahoma
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -4053,37 +4107,37 @@ https://zekonew.iosplayer.ru/zeko/premium901/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium902/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium902/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Bally Sports South" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Bally Sports South
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium903/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium903/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Bally Sports Southeast" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Bally Sports Southeast
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium904/mono.m3u8
+https://zekonew.iosplayer.ru/zeko/premium904/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Bally Sports Sun" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Bally Sports Sun
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium905/mono.m3u8
+https://zekonew.iosplayer.ru/zeko/premium905/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Bally Sports West" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Bally Sports West
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium906/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium906/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Bally Sports Wisconsin" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Bally Sports Wisconsin
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium907/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium907/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Bandsports Brasil" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Bandsports Brasil
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -4107,7 +4161,7 @@ https://zekonew.iosplayer.ru/zeko/premium273/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium280/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium280/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="CBS Sports Golazo" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", CBS Sports Golazo
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -4199,17 +4253,23 @@ https://ddy6new.iosplayer.ru/ddy6/premium773/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium798/mono.m3u8
 
+#EXTINF:-1 tvg-id="unknown" tvg-name="Fox Sports Argentina" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Fox Sports Argentina
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium767/mono.m3u8
+
 #EXTINF:-1 tvg-id="unknown" tvg-name="FUSE TV USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", FUSE TV USA
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium279/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium279/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Galavisión USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Galavisión USA
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium743/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium743/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="LaLigaTV UK" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", LaLigaTV UK
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -4233,7 +4293,7 @@ https://zekonew.iosplayer.ru/zeko/premium278/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium924/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium924/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="M6 France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", M6 France
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -4365,31 +4425,37 @@ https://windnew.iosplayer.ru/wind/premium680/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium792/mono.m3u8
+https://zekonew.iosplayer.ru/zeko/premium792/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Showtime Showcase USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Showtime Showcase USA
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium793/mono.m3u8
+https://zekonew.iosplayer.ru/zeko/premium793/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Showtime Extreme USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Showtime Extreme USA
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium794/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium794/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Showtime Family Zone (SHO Family Zone) USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Showtime Family Zone (SHO Family Zone) USA
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium795/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium795/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Showtime Next (SHO Next) USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Showtime Next (SHO Next) USA
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium796/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium796/mono.m3u8
+
+#EXTINF:-1 tvg-id="unknown" tvg-name="Smithsonian Channel" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Smithsonian Channel
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium601/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Space City Home Network" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Space City Home Network
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
@@ -4401,7 +4467,7 @@ https://dokko1new.iosplayer.ru/dokko1/premium921/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium922/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium922/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="TF1 France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", TF1 France
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
