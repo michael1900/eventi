@@ -226,3 +226,9 @@ https://nfsnew.koskoros.ru/nfs/premium877/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://windnew.koskoros.ru/wind/premium880/mono.m3u8
 
+#EXTINF:-1 tvg-id="20.it" tvg-name="20 Mediaset " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Intrattenimento", 20 Mediaset 
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://windnew.koskoros.ru/wind/premium857/mono.m3u8
+
