@@ -1,39 +1,3 @@
-#EXTINF:-1 tvg-id="eurosport1.it" tvg-name="EuroSport 1 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport", EuroSport 1 
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://windnew.koskoros.ru/wind/premium878/mono.m3u8
-
-#EXTINF:-1 tvg-id="eurosport2.it" tvg-name="EuroSport 2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport", EuroSport 2 
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://windnew.koskoros.ru/wind/premium879/mono.m3u8
-
-#EXTINF:-1 tvg-id="italia1.it" tvg-name="Italia 1 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Intrattenimento", Italia 1 
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://windnew.koskoros.ru/wind/premium854/mono.m3u8
-
-#EXTINF:-1 tvg-id="la7.it" tvg-name="La7 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Intrattenimento", La7 
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://windnew.koskoros.ru/wind/premium855/mono.m3u8
-
-#EXTINF:-1 tvg-id="la7.it" tvg-name="LA7d  " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Intrattenimento", LA7d  
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://windnew.koskoros.ru/wind/premium856/mono.m3u8
-
-#EXTINF:-1 tvg-id="rai1.it" tvg-name="Rai 1 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Intrattenimento", Rai 1 
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddy6new.koskoros.ru/ddy6/premium850/mono.m3u8
-
 #EXTINF:-1 tvg-id="rai2.it" tvg-name="Rai 2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-2-it.png" group-title="Intrattenimento", Rai 2 
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
