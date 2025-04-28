@@ -1013,6 +1013,12 @@ https://dokko1new.iosplayer.ru/dokko1/premium605/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium606/mono.m3u8
 
+#EXTINF:-1 tvg-id="unknown" tvg-name="Dubai Racing 1 UAE" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Dubai Racing 1 UAE
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium607/mono.m3u8
+
 #EXTINF:-1 tvg-id="unknown" tvg-name="Dubai Racing 2 UAE" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Dubai Racing 2 UAE
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -3941,6 +3947,12 @@ https://zekonew.iosplayer.ru/zeko/premium505/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium506/mono.m3u8
 
+#EXTINF:-1 tvg-id="unknown" tvg-name="1+ (Player-07)" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", 1+ (Player-07)
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium507/mono.m3u8
+
 #EXTINF:-1 tvg-id="unknown" tvg-name="1+ (Player-0)" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", 1+ (Player-0)
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -4378,6 +4390,12 @@ https://ddy6new.iosplayer.ru/ddy6/premium210/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://windnew.iosplayer.ru/wind/premium43/mono.m3u8
+
+#EXTINF:-1 tvg-id="unknown" tvg-name="Rally Tv" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Rally Tv
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium607/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="RTL DE" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", RTL DE
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
