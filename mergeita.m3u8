@@ -52,12 +52,6 @@ https://windnew.koskoros.ru/wind/premium852/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://windnew.koskoros.ru/wind/premium853/mono.m3u8
 
-#EXTINF:-1 tvg-id="raisport.it" tvg-name="Rai Sport " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-sport-it.png" group-title="Sport", Rai Sport 
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddy6new.koskoros.ru/ddy6/premium882/mono.m3u8
-
 #EXTINF:-1 tvg-id="raipremium.it" tvg-name="Rai Premium " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-premium-it.png" group-title="Intrattenimento", Rai Premium 
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
